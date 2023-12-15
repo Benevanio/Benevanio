@@ -1,8 +1,6 @@
 # Bem-vindo ao Meu Perfil 👋
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-</div>
+
 
 ![one_piece_monkey_d__luffy_new_move_hd_anime](https://user-images.githubusercontent.com/78994881/216974830-0b51cdb7-c2ff-4464-8fb4-2a95a9b61b26.jpg)
 
@@ -46,6 +44,37 @@
 
 </details>
 
+# Experiência Profissional
+
+## Integração Mulesoft na Sysmap Solutions
+
+Atualmente, atuo como Analista de Sistemas na Sysmap Solutions, contribuindo para a implementação e aprimoramento de soluções de integração com Mulesoft. Minha jornada profissional tem sido marcada pela expertise em conectar sistemas e otimizar fluxos de dados.
+
+### Principais Realizações
+
+- **Integração Mulesoft:** Participei ativamente de projetos de integração utilizando a plataforma Mulesoft, desempenhando um papel essencial na facilitação da comunicação entre sistemas heterogêneos.
+
+- **Colaboração Internacional:** Trabalhei em estreita colaboração com equipes distribuídas em diversos países, incluindo Argentina, Brasil, Chile e México. Essa experiência ampliou minha visão sobre as práticas de desenvolvimento e me proporcionou uma compreensão mais abrangente das necessidades globais de integração.
+
+### Tecnologias Utilizadas
+
+- **Mulesoft:** Domínio na utilização da plataforma Mulesoft para desenvolvimento de integrações robustas e escaláveis.
+
+- **Java:** Experiência sólida em programação Java, essencial para a customização e extensão de funcionalidades na integração Mulesoft.
+
+- **APIs RESTful:** Desenvolvimento e consumo de APIs RESTful para facilitar a comunicação entre sistemas.
+
+### Colaboração Global
+
+Participar de equipes multinacionais proporcionou-me habilidades excepcionais de comunicação e colaboração. Compreender as nuances culturais e técnicas de diferentes regiões fortaleceu minha capacidade de oferecer soluções integradas e alinhadas às necessidades específicas de cada localidade.
+
+Estou entusiasmado em continuar explorando novas fronteiras na integração e contribuir para o sucesso contínuo da Sysmap Solutions. Se você tem interesse em saber mais sobre minha experiência ou discutir oportunidades de colaboração, não hesite em entrar em contato.
+
+## Contato
+
+- LinkedIn: [Benevanio Dos Santos Conceição](https://www.linkedin.com/in/bene-tesla/)
+- Portfólio: [Meu Portfólio](https://benevaniosantos.vercel.app/)
+- E-Mail: [benevaniosantos930@gmail.com](mailto:benevaniosantos930@gmail.com)
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=benetesla&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
