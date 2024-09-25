@@ -20,7 +20,7 @@ Desenvolvedor Full Stack com 2 anos de experiência em MuleSoft (Low Code) e só
 
 - **UI/UX Design com Figma**: Experiência no design de interfaces de usuário funcionais e atraentes utilizando Figma, com foco em proporcionar boas experiências aos usuários.
 
-- **Bancos de Dados (SQL e MongoDB)**: Experiência em modelagem e otimização de bancos de dados relacionais e NoSQL.
+- **Bancos de Dados (MYSQL e MongoDB)**: Experiência em modelagem e otimização de bancos de dados relacionais e NoSQL.
 
 ### Habilidades Técnicas
 
