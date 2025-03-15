@@ -39,3 +39,4 @@ Desenvolvedor Full Stack com 2 anos de experiência em MuleSoft (Low Code) e só
 - **Desenvolvimento Frontend com React**: Construção de Single Page Applications (SPA) interativas e responsivas utilizando React e Bootstrap.
 
 - **Design de Interfaces com Figma**: Criação de interfaces de usuário intuitivas e responsivas, garantindo uma experiência de usuário agradável.
+![Image](https://github.com/user-attachments/assets/241515c0-873e-4904-9a6b-257fa1579478)
