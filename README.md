@@ -1,7 +1,3 @@
-Aqui está um **README.md** personalizado para o seu perfil, com ícones para as tecnologias e redes sociais:
-
----
-
 # **Benevanio - Engenheiro de Software | Desenvolvedor Full Stack**
 
 👋 Olá! Sou **Benevanio**, um Engenheiro de Software e Desenvolvedor Full Stack com experiência em diversas tecnologias modernas. Minha stack inclui **Java**, **Spring**, **Node.js**, **React**, **MuleSoft** e **Flutter**, permitindo-me criar soluções robustas e escaláveis para front-end, back-end e integração de sistemas.
