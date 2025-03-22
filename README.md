@@ -15,16 +15,19 @@
 
 ### Front-end
 - <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="20"/> **React**: Biblioteca JavaScript para construção de interfaces de usuário modernas e responsivas.
+
+  
+### Mobile
 - <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="20"/> **Flutter**: Framework para desenvolvimento de aplicativos móveis multiplataforma com alta performance.
 
 ### Banco de Dados
 - <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="20"/> MySQL  
-- <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" width="20"/> PostgreSQL  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="20"/> PostgreSQL  
 - <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="20"/> MongoDB
 
 ### Testes
 - <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/32/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png" alt="Jest" width="20"/> **Jest**: Framework de testes para aplicações JavaScript.
-- <img src="https://img.icons8.com/color/48/000000/junit.png" alt="JUnit" width="20"/> **JUnit**: Framework de testes para aplicações Java.
+-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="20" /> **JUnit**: Framework de testes para aplicações Java.
 
 ### Ferramentas
 - <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="20"/> Git  
@@ -32,7 +35,7 @@
 - <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="20"/> Kubernetes  
 - <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="20"/> Jenkins  
 - <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="20"/> AWS  
-- <img src="https://img.icons8.com/color/48/000000/azure.png" alt="Azure" width="20"/> Azure  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="20"/> Azure  
 
 ---
 
