@@ -16,7 +16,6 @@
 ### Front-end
 - <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="20"/> **React**: Biblioteca JavaScript para construção de interfaces de usuário modernas e responsivas.
 
-  
 ### Mobile
 - <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="20"/> **Flutter**: Framework para desenvolvimento de aplicativos móveis multiplataforma com alta performance.
 
@@ -88,3 +87,36 @@ Conecte-se comigo nas redes sociais:
 ---
 
 Vamos construir algo incrível juntos! 🚀
+
+---
+
+## 🎌 **Personagens de Anime Favoritos**
+
+Aqui estão alguns dos meus personagens de anime favoritos:
+
+- **Vegeta** (Dragon Ball Z)  
+  ![Vegeta](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdzMmMwcjY3bHNtb2thbjN1dHVvN3BhNWo4eHlhbWo3OWdpcnRjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/At8TemfUYhemteTDDN/giphy.gif)
+
+- **Naruto Uzumaki** (Naruto)  
+  ![Naruto](https://media.giphy.com/media/IO2ICudgtBjby/giphy.gif?cid=ecf05e477er833ud1hzd3rezpg3d9q5bfil111566qtybayt&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+- **Levi Ackerman** (Attack on Titan)  
+  ![Levi](https://media.giphy.com/media/A91yGpQJyBnUY/giphy.gif?cid=790b76111g67iupbz384h6uxdbiil6bktbgtfrqkm0jpe8gd&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+
+
+---
+
+## 🚀 **Doctor Who e Star Wars**
+
+Sou um grande fã de **Doctor Who** e **Star Wars**! Aqui estão alguns GIFs para celebrar essas incríveis séries:
+
+- **Doctor Who**  
+  ![Doctor Who](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2w0bjFqZDNodHh5MnU3bTJyMGQ1Njc2aHF1NnJsa29tZXUxNDFoaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pbcDD97P5RYDm/giphy.gif)
+
+- **Star Wars**  
+  ![Star Wars](https://media.giphy.com/media/11cFgJK4tK4Jpu/giphy.gif?cid=790b7611mx205e8u8tsp61og5jo2s13glhcoaroyst542y84&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+---
+
+Vamos explorar o universo da tecnologia, animes e ficção científica juntos! 🌌
