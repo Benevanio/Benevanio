@@ -13,11 +13,31 @@
 - <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express" width="20"/> **Express**: Framework para construção de APIs RESTful em Node.js.
 - <img src="https://github.com/user-attachments/assets/126749d2-8c71-4eb5-bdae-7f6eaed6525b" alt="MuleSoft" width="20"/> **MuleSoft**: Plataforma de integração para conectar sistemas, APIs e dados.
 
+
 ### Front-end
-- <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="20"/> **React**: Biblioteca JavaScript para construção de interfaces de usuário modernas e responsivas.
+
+- <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="20"/> **React**: Biblioteca JavaScript para construção de interfaces de usuário modernas, dinâmicas e reativas com base em componentes reutilizáveis.
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="20" /> **HTML**: Linguagem de marcação responsável pela estruturação do conteúdo exibido em páginas web.
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="20"/> **CSS**: Linguagem de estilo utilizada para definir o layout, cores, fontes e aparência visual das páginas web.
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="20"/> **SASS**: Extensão do CSS que adiciona funcionalidades como variáveis, mixins e aninhamento, facilitando a manutenção e organização do estilo.
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="20" /> **Bootstrap**: Framework front-end que oferece componentes prontos e responsivos com base em HTML, CSS e JavaScript.
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20"/> **JavaScript**: Linguagem de programação essencial para adicionar interatividade, manipular elementos da página e se comunicar com back-end em aplicações web.
+          
+          
+          
+          
 
 ### Mobile
-- <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="20"/> **Flutter**: Framework para desenvolvimento de aplicativos móveis multiplataforma com alta performance.
+
+- <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="20"/> **Flutter**: Framework para desenvolvimento de aplicativos móveis multiplataforma com alta performance, utilizando a linguagem Dart.
+
+- <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" width="20"/> **React Native**: Framework baseado em React para criação de aplicativos móveis nativos para Android e iOS utilizando JavaScript.
+
 
 ### Banco de Dados
 - <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="20"/> MySQL  
