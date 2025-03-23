@@ -11,7 +11,7 @@
 - <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="20"/> **Spring**: Framework para construção de aplicações empresariais, incluindo Spring Boot, Spring MVC e Spring Security.
 - <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="20"/> **Node.js**: Ambiente de execução para desenvolvimento de APIs rápidas e eficientes.
 - <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express" width="20"/> **Express**: Framework para construção de APIs RESTful em Node.js.
-- <img src="https://img.icons8.com/color/48/000000/mulesoft.png" alt="MuleSoft" width="20"/> **MuleSoft**: Plataforma de integração para conectar sistemas, APIs e dados.
+- <img src="https://github.com/user-attachments/assets/126749d2-8c71-4eb5-bdae-7f6eaed6525b" alt="MuleSoft" width="20"/> **MuleSoft**: Plataforma de integração para conectar sistemas, APIs e dados.
 
 ### Front-end
 - <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="20"/> **React**: Biblioteca JavaScript para construção de interfaces de usuário modernas e responsivas.
@@ -89,6 +89,9 @@ Conecte-se comigo nas redes sociais:
 Vamos construir algo incrível juntos! 🚀
 
 ---
+
+- ![Image](https://github.com/user-attachments/assets/ee7a3a8d-1e5a-40e3-8505-9fa89c5ceee6 )
+
 
 ## 🎌 **Personagens de Anime Favoritos**
 
