@@ -109,7 +109,7 @@ Aqui estão alguns dos meus personagens de anime favoritos:
 
 ## 🚀 **Doctor Who e Star Wars**
 
-Sou um grande fã de **Doctor Who** e **Star Wars**! Aqui estão alguns GIFs para celebrar essas incríveis séries:
+Sou um grande fã de **Doctor Who** e **Star Wars**!
 
 - **Doctor Who**  
   ![Doctor Who](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2w0bjFqZDNodHh5MnU3bTJyMGQ1Njc2aHF1NnJsa29tZXUxNDFoaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pbcDD97P5RYDm/giphy.gif)
