@@ -58,8 +58,6 @@
 
 # 👀 Visualizações do perfil
 
-![Visitor Count](https://profile-counter.glitch.me/Benevanio/count.svg)  
-*Última atualização: automaticamente atualizado*
 
 📊 **Estatísticas**  
 `Hoje` | `Este mês` | `Total`  
