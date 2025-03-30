@@ -54,7 +54,10 @@
 - <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="20"/> Kubernetes  
 - <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="20"/> Jenkins  
 - <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="20"/> AWS  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="20"/> Azure  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="20"/> Azure
+
+# Eu sei que voce viu meu perfil hehehe
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Benevanio)
 
 ---
 
