@@ -56,8 +56,17 @@
 - <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="20"/> AWS  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="20"/> Azure
 
-# Eu sei que voce viu meu perfil hehehe
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Benevanio)
+# 👀 Visualizações do perfil
+
+![Visitor Count](https://profile-counter.glitch.me/Benevanio/count.svg)  
+*Última atualização: automaticamente atualizado*
+
+📊 **Estatísticas**  
+`Hoje` | `Este mês` | `Total`  
+--- | --- | ---  
+![](https://komarev.com/ghpvc/?username=Benevanio&label=hoje&color=blueviolet) | ![](https://komarev.com/ghpvc/?username=Benevanio&label=este+mês&color=orange) | ![](https://komarev.com/ghpvc/?username=Benevanio)
+
+*"Grandes mentes pensam igual... e grandes desenvolvedores revisam códigos alheios!"* 😉
 
 ---
 
