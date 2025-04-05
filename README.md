@@ -60,9 +60,9 @@
 
 
 📊 **Estatísticas**  
-`Hoje` | `Este mês` | `Total`  
---- | --- | ---  
-![](https://komarev.com/ghpvc/?username=Benevanio&label=hoje&color=blueviolet) | ![](https://komarev.com/ghpvc/?username=Benevanio&label=este+mês&color=orange) | ![](https://komarev.com/ghpvc/?username=Benevanio)
+`Hoje`  | `Total`  
+--- | ---  
+![](https://komarev.com/ghpvc/?username=Benevanio&label=hoje&color=blueviolet) | ![](https://komarev.com/ghpvc/?username=Benevanio)
 
 *"Grandes mentes pensam igual... e grandes desenvolvedores revisam códigos alheios!"* 😉
 
