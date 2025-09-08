@@ -1,155 +1,106 @@
-# **Benevanio(bene_tesla_dev) - Engenheiro de Software | Desenvolvedor Full Stack**
-
-👋 Olá! Sou **Benevanio**, um Engenheiro de Software e Desenvolvedor Full Stack com experiência em diversas tecnologias modernas. Minha stack inclui **Java**, **Spring**, **Node.js**, **React**, **MuleSoft** e **Flutter**, permitindo-me criar soluções robustas e escaláveis para front-end, back-end e integração de sistemas.
-
----
-
-## 🛠️ **Tecnologias e Ferramentas**
-
-### Back-end
-- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="20"/> **Java**: Linguagem principal para desenvolvimento de sistemas robustos e escaláveis.
-- <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="20"/> **Spring**: Framework para construção de aplicações empresariais, incluindo Spring Boot, Spring MVC e Spring Security.
-- <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="20"/> **Node.js**: Ambiente de execução para desenvolvimento de APIs rápidas e eficientes.
-- <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express" width="20"/> **Express**: Framework para construção de APIs RESTful em Node.js.
-- <img src="https://github.com/user-attachments/assets/126749d2-8c71-4eb5-bdae-7f6eaed6525b" alt="MuleSoft" width="20"/> **MuleSoft**: Plataforma de integração para conectar sistemas, APIs e dados.
-
-
-### Front-end
-
-- <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="20"/> **React**: Biblioteca JavaScript para construção de interfaces de usuário modernas, dinâmicas e reativas com base em componentes reutilizáveis.
-
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="20" /> **HTML**: Linguagem de marcação responsável pela estruturação do conteúdo exibido em páginas web.
-
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="20"/> **CSS**: Linguagem de estilo utilizada para definir o layout, cores, fontes e aparência visual das páginas web.
-
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="20"/> **SASS**: Extensão do CSS que adiciona funcionalidades como variáveis, mixins e aninhamento, facilitando a manutenção e organização do estilo.
-
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="20" /> **Bootstrap**: Framework front-end que oferece componentes prontos e responsivos com base em HTML, CSS e JavaScript.
-
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20"/> **JavaScript**: Linguagem de programação essencial para adicionar interatividade, manipular elementos da página e se comunicar com back-end em aplicações web.
-          
-          
-          
-          
-
-### Mobile
-
-- <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="20"/> **Flutter**: Framework para desenvolvimento de aplicativos móveis multiplataforma com alta performance, utilizando a linguagem Dart.
-
-- <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" width="20"/> **React Native**: Framework baseado em React para criação de aplicativos móveis nativos para Android e iOS utilizando JavaScript.
-
-
-### Banco de Dados
-- <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="20"/> MySQL  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="20"/> PostgreSQL  
-- <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="20"/> MongoDB
-
-### Testes
-- <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/32/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png" alt="Jest" width="20"/> **Jest**: Framework de testes para aplicações JavaScript.
--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="20" /> **JUnit**: Framework de testes para aplicações Java.
-
-### Ferramentas
-- <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="20"/> Git  
-- <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="20"/> Docker  
-- <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="20"/> Kubernetes  
-- <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="20"/> Jenkins  
-- <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="20"/> AWS  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="20"/> Azure
-
-# 👀 Visualizações do perfil
-
-
-📊 **Estatísticas**  
-`Hoje`  | `Total`  
---- | ---  
-![](https://komarev.com/ghpvc/?username=Benevanio&label=hoje&color=blueviolet) | ![](https://komarev.com/ghpvc/?username=Benevanio)
-
-*"Grandes mentes pensam igual... e grandes desenvolvedores revisam códigos alheios!"* 😉
-
----
-
-## 🚀 **Projetos Destacados**
-
-### 1. **Sistema de Autenticação com Node.js e React**
-   - API RESTful com Node.js e Express.
-   - Front-end moderno com React e autenticação JWT.
-   - Integração com banco de dados MySQL.
-
-### 2. **Aplicativo de Gerenciamento de Tarefas com Flutter**
-   - Aplicativo móvel multiplataforma para gerenciamento de tarefas.
-   - Integração com API back-end em Spring Boot.
-
-### 3. **Integração de Sistemas com MuleSoft**
-   - Desenvolvimento de fluxos de integração para conectar sistemas legados e APIs modernas.
-   - Automação de processos empresariais.
-
----
-
-## 📚 **Habilidades Técnicas**
-
-- **Desenvolvimento Full Stack**: Experiência em front-end, back-end e integração de sistemas.  
-- **APIs RESTful**: Criação e consumo de APIs para integração de sistemas.  
-- **Desenvolvimento Mobile**: Criação de aplicativos multiplataforma com Flutter.  
-- **Integração de Sistemas**: Uso de MuleSoft para conectar sistemas e APIs.  
-- **DevOps**: Conhecimento em CI/CD, Docker e Kubernetes.  
-
----
-
-## 🌟 **Por que trabalhar comigo?**
-
-- **Versatilidade**: Domínio de diversas tecnologias para entregar soluções completas.  
-- **Foco em Qualidade**: Código limpo, testes automatizados e boas práticas de desenvolvimento.  
-- **Solução de Problemas**: Habilidade para identificar e resolver desafios técnicos de forma eficiente.  
-- **Colaboração**: Experiência em trabalhar em equipes ágeis e multidisciplinares.  
-
----
-
-## 📫 **Contato**
-
-Conecte-se comigo nas redes sociais:
-
-- <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="20"/> [LinkedIn](https://www.linkedin.com/in/bene-tesla/)  
-- <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="20"/> [GitHub](https://github.com/Benevanio)  
-- <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="20"/> [Twitter](https://x.com/BenevanioS)  
-- <img src="https://img.icons8.com/color/48/000000/instagram.png" alt="Instagram" width="20"/> [Instagram](https://www.instagram.com/bene_tesla_dev/)  
-- <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="E-mail" width="20"/> benevaniosantos930@gmail.com  
-
----
-
-Vamos construir algo incrível juntos! 🚀
-
----
-
-- ![Image](https://github.com/user-attachments/assets/ee7a3a8d-1e5a-40e3-8505-9fa89c5ceee6 )
-
-
-## 🎌 **Personagens de Anime Favoritos**
-
-Aqui estão alguns dos meus personagens de anime favoritos:
-
-- **Vegeta** (Dragon Ball Z)  
-  ![Vegeta](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdzMmMwcjY3bHNtb2thbjN1dHVvN3BhNWo4eHlhbWo3OWdpcnRjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/At8TemfUYhemteTDDN/giphy.gif)
-
-- **Naruto Uzumaki** (Naruto)  
-  ![Naruto](https://media.giphy.com/media/IO2ICudgtBjby/giphy.gif?cid=ecf05e477er833ud1hzd3rezpg3d9q5bfil111566qtybayt&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
-- **Levi Ackerman** (Attack on Titan)  
-  ![Levi](https://media.giphy.com/media/A91yGpQJyBnUY/giphy.gif?cid=790b76111g67iupbz384h6uxdbiil6bktbgtfrqkm0jpe8gd&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
+<h1 align="center"><b>Olá, eu sou Benevanio (bene_tesla_dev) 👋</b></h1>  
 
 
 ---
 
-## 🚀 **Doctor Who e Star Wars**
+## **Sobre mim**
 
-Sou um grande fã de **Doctor Who** e **Star Wars**!
+<picture>
+  <img align="right" src="https://github.com/user-attachments/assets/74219e63-83c0-4e2a-954f-b77b3e452eb0" width="200px" style="margin-left:15px; margin-bottom:10px; border-radius:50%;" />
+</picture>
 
-- **Doctor Who**  
-  ![Doctor Who](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2w0bjFqZDNodHh5MnU3bTJyMGQ1Njc2aHF1NnJsa29tZXUxNDFoaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pbcDD97P5RYDm/giphy.gif)
 
-- **Star Wars**  
-  ![Star Wars](https://media.giphy.com/media/11cFgJK4tK4Jpu/giphy.gif?cid=790b7611mx205e8u8tsp61og5jo2s13glhcoaroyst542y84&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+- Engenheiro de Software e Desenvolvedor Full Stack  
+- Experiência com **Java**, **Spring**, **Node.js**, **React**, **Flutter** e **MuleSoft**  
+- Apaixonado por **tecnologia**, **animes** e **ficção científica**  
+- Entusiasta de desenvolvimento **mobile e web**, integração de sistemas e **DevOps**
 
 ---
 
-Vamos explorar o universo da tecnologia, animes e ficção científica juntos! 🌌
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Tecnologias e Skills</b>
+
+<p align="center">
+
+- **Linguagens**:  
+![Java](https://img.shields.io/badge/Java-%23f89820?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+- **Front-End**:  
+![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=#61DAFB)  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![SASS](https://img.shields.io/badge/Sass-%23CD6799?style=for-the-badge&logo=sass&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+- **Back-End**:  
+![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-%23404d59?style=for-the-badge)  
+![MuleSoft](https://img.shields.io/badge/MuleSoft-%23339933?style=for-the-badge)
+
+- **Mobile**:  
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![React Native](https://img.shields.io/badge/React_Native-%2320232a?style=for-the-badge&logo=react&logoColor=#61DAFB)
+
+- **Banco de Dados**:  
+![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+- **DevOps / Ferramentas**:  
+![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%232496ed?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-%230072c6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Projetos Destacados</b>
+
+- **Sistema de Autenticação Node.js + React**  
+  API RESTful com Node.js e Express, front-end em React, autenticação JWT e MySQL.
+
+- **App de Gerenciamento de Tarefas com Flutter**  
+  Aplicativo móvel multiplataforma integrado com back-end Spring Boot.
+
+- **Integração de Sistemas com MuleSoft**  
+  Automação e integração de sistemas legados e APIs modernas.
+
+---
+
+## <b>Anime & Sci-Fi Faves</b>
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/At8TemfUYhemteTDDN/giphy.gif" width="80" alt="Vegeta"/>
+  <img src="https://media.giphy.com/media/IO2ICudgtBjby/giphy.gif" width="80" alt="Naruto"/>
+  <img src="https://media.giphy.com/media/A91yGpQJyBnUY/giphy.gif" width="80" alt="Levi"/>
+</p>
+
+---
+
+## <b>Doctor Who & Star Wars</b>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/pbcDD97P5RYDm/giphy.gif" width="100" alt="Doctor Who"/>
+  <img src="https://media.giphy.com/media/11cFgJK4tK4Jpu/giphy.gif" width="100" alt="Star Wars"/>
+</p>
+
+---
+
+## <b>Vamos nos conectar!</b> 🤝
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Benevanio-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bene-tesla/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Benevanio-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Benevanio)  
+[![Instagram](https://img.shields.io/badge/Instagram-Bene_Tesla_Dev-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bene_tesla_dev/)  
+[![Twitter](https://img.shields.io/badge/Twitter-BenevanioS-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/BenevanioS)  
+
+📧 **Email**: benevaniosantos930@gmail.com
+
+</div>
+
