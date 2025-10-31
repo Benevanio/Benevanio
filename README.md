@@ -40,7 +40,6 @@ Sou movido por desafios, aprendizado contínuo e pela busca de **arquiteturas es
 ![MuleSoft](https://img.shields.io/badge/MuleSoft-%23007CBA?style=for-the-badge)
 
 **Mobile:**  
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a?style=for-the-badge&logo=react&logoColor=#61DAFB)
 
 **Banco de Dados:**  
