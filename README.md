@@ -1,79 +1,71 @@
 <h1 align="center"><b>Olá, eu sou Benevanio Santos 👋</b></h1>  
-<h3 align="center">Engenheiro de Software | Desenvolvedor Full Stack | Entusiasta de Arquitetura e Integração de Sistemas</h3>
+<h3 align="center">Desenvolvedor Back-End & Full Stack | Integrações, APIs e Sistemas Distribuídos</h3>
 
 ---
 
-## 🧠 **Sobre mim**
+## 🧠 <b>Sobre mim</b>
 
 <picture>
   <img align="right" src="https://github.com/user-attachments/assets/74219e63-83c0-4e2a-954f-b77b3e452eb0" width="200px" style="margin-left:15px; margin-bottom:10px; border-radius:50%;" />
 </picture>
 
-Sou **Engenheiro de Software** e **Desenvolvedor Full Stack**, apaixonado por tecnologia, inovação e soluções distribuídas.  
-Atualmente curso **Pós-graduação em Arquitetura de Software Distribuído (PUC Minas)**, onde aprofundo meus conhecimentos em **microsserviços, computação em nuvem e DevOps**.  
+Sou **Desenvolvedor Back-End e Full Stack**, com experiência em **integrações corporasl corporativas, APIs RESTful e sistemas distribuídos de grande escala**.  
+Atuo principalmente com **Java, Node.js, TypeScript, React.js e MuleSoft**, sempre com foco em **performance, segurança, testes, observabilidade e qualidade de código**.
 
-Tenho experiência com **Spring Boot, Node.js, React** e **MuleSoft**, atuando no desenvolvimento de aplicações web, integração de APIs e automação de processos corporativos.  
+Tenho vivência em **projetos de alta criticidade**, com entregas diretas para a **Natura**, atuando via **SysMap Solutions**. No time de **Integrações MuleSoft**, trabalhei na sustentação e evolução de APIs corporativas, implementação de **logging estruturado (JSON Logger)**, aumento de **rastreabilidade** e criação de **métricas de desempenho**.
 
-Sou movido por desafios, aprendizado contínuo e pela busca de **arquiteturas escaláveis e bem projetadas**.  
+Posteriormente, atuei no time **GPP**, desenvolvendo funcionalidades para **cadastro de consultoras**, utilizando **MySQL, Oracle, Knex.js, TypeScript e React.js**.  
+Atualmente, contribuo na **Global Sales Platform (GSP)**, com foco em **melhorias de performance, escalabilidade e estabilidade** nos fluxos de venda da **JCB**.
+
+Sou motivado por **desafios técnicos**, aprendizado contínuo e pela construção de **soluções robustas e escaláveis**, que geram impacto real no negócio.
 
 ---
 
-## ⚙️ **Tecnologias e Ferramentas**
+## ⚙️ <b>Tecnologias e Ferramentas</b>
 
 <p align="center">
 
-**Linguagens:**  
-![Java](https://img.shields.io/badge/Java-%23f89820?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<b>Linguagens</b><br/>
+Java · JavaScript · TypeScript
 
-**Front-End:**  
-![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=#61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-%23CD6799?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<b>Back-End</b><br/>
+Spring Boot · Node.js · Express · NestJS · MuleSoft (API-Led, DataWeave)
 
-**Back-End:**  
-![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23404d59?style=for-the-badge)
-![MuleSoft](https://img.shields.io/badge/MuleSoft-%23007CBA?style=for-the-badge)
+<b>Front-End</b><br/>
+React.js · Hooks · Context API · HTML · CSS · Bootstrap
 
-**Mobile:**  
-![React Native](https://img.shields.io/badge/React_Native-%2320232a?style=for-the-badge&logo=react&logoColor=#61DAFB)
+<b>Bancos de Dados</b><br/>
+MySQL · PostgreSQL · Oracle · MongoDB
 
-**Banco de Dados:**  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<b>DevOps & Cloud</b><br/>
+Docker · AWS (Lambda, S3, EC2) · Git · Postman · Kibana
 
-**DevOps / Cloud:**  
-![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%232496ed?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072c6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+<b>Boas Práticas</b><br/>
+SOLID · Clean Architecture · TDD · Observabilidade · RESTful APIs
 
 </p>
 
 ---
 
-## 🚀 **Projetos Destacados**
+## 🚀 <b>Projetos Destacados</b>
 
-- **🔐 Sistema de Autenticação Node.js + React**  
-  API RESTful com Node.js e Express, front-end em React, autenticação JWT e integração com MySQL.
+- **🔐 AuthKnex – API de Autenticação**  
+  API RESTful com **Node.js, TypeScript, JWT e PostgreSQL**, incluindo controle de roles, refresh token e fluxo seguro.
 
-- **📱 App de Gerenciamento de Tarefas (Flutter + Spring Boot)**  
-  Aplicativo multiplataforma integrado a uma API REST para controle de tarefas e notificações.
+- **☕ RestSpring – API REST com Java**  
+  API desenvolvida com **Spring Boot, JPA, H2 e Swagger**, seguindo boas práticas de versionamento e arquitetura.
 
 - **🔗 Integrações MuleSoft**  
-  Automação e integração entre sistemas legados e APIs modernas, otimizando fluxos de dados corporativos.
+  Integrações corporativas utilizando **API-Led Connectivity, DataWeave e conectores MuleSoft**, conectando sistemas legados a APIs modernas.
+
+- **🌐 Social Media API**  
+  Backend de rede social com **Node.js, Express, MongoDB** e autenticação JWT.
 
 ---
 
-## 🌌 **Interesses Pessoais**
+## 🌌 <b>Interesses Pessoais</b>
 
-Sou fã de **animes, ficção científica e cultura geek** — especialmente **Doctor Who** e **Star Wars** — que inspiram minha curiosidade e criatividade como desenvolvedor.
+Sou fã de **animes, ficção científica e cultura geek**, o que estimula minha curiosidade, criatividade e visão sistêmica como desenvolvedor.
 
 <p align="center">
   <img src="https://media4.giphy.com/media/At8TemfUYhemteTDDN/giphy.gif" width="80" alt="Vegeta"/>
@@ -83,15 +75,17 @@ Sou fã de **animes, ficção científica e cultura geek** — especialmente **D
 
 ---
 
-## 🤝 **Vamos nos conectar!**
+## 🤝 <b>Vamos nos conectar</b>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Benevanio-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bene-tesla/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Benevanio-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Benevanio)  
-[![Instagram](https://img.shields.io/badge/Instagram-Bene_Tesla_Dev-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bene_tesla_dev/)  
-[![Twitter](https://img.shields.io/badge/Twitter-BenevanioS-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/BenevanioS)  
+<a href="https://www.linkedin.com/in/bene-tesla/">
+  <img src="https://img.shields.io/badge/LinkedIn-Benevanio-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Benevanio">
+  <img src="https://img.shields.io/badge/GitHub-Benevanio-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-📧 **Contato:** benevaniosantos930@gmail.com
+📧 <b>Contato:</b> benevaniosantos930@gmail.com
 
 </div>
