@@ -161,4 +161,3 @@ val personalInterests = listOf(
   <img src="https://img.shields.io/badge/⚡-High%20Performance-blue" />
   <img src="https://img.shields.io/badge/🏗️-Clean%20Architecture-green" />
 </p>
-```
