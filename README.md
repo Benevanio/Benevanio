@@ -1,144 +1,87 @@
 <h1 align="center"><b>👋 Benevanio Santos</b></h1>
-<h3 align="center">Desenvolvedor Back-End & Integrações | Bacharel em Engenharia de Software</h3>
+<h3 align="center">Engenheiro de Software | Backend Java & Integrações Corporativas</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Busy_🚀-brightgreen" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Work_🚀-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Integrations-blue" />
+  <img src="https://img.shields.io/badge/Architecture-Distributed%20Systems-green" />
 </p>
 
 ---
 
-## 📋 **Perfil Técnico**
+## 📋 Perfil Profissional
 
-<p align="center">
-  <picture>
-    <img src="https://github.com/user-attachments/assets/74219e63-83c0-4e2a-954f-b77b3e452eb0" width="200" style="border-radius: 10px;" />
-  </picture>
-</p>
+Engenheiro de Software com atuação em **sistemas corporativos de grande escala, integrações de APIs e soluções backend escaláveis**.
 
-**Desenvolvedor especializado em sistemas corporativos de grande escala**, com foco em **integrações, APIs de alta performance e arquitetura distribuída**. Atuo em projetos críticos para a **Natura** através da **SysMap Solutions**, com entregas mensuráveis em performance e estabilidade.
+Experiência em projetos críticos de integração para o ecossistema da **Natura**, atuando via **SysMap Solutions**, com foco em:
 
-**Formação Acadêmica:**
-- 🎓 **Bacharel em Engenharia de Software** (Anhanguera Educacional - 2025)
-- 🏛️ **Pós-Graduação em Arquitetura de Software Distribuído** (PUC Minas - 2027, em andamento)
+- ⚡ Performance
+- 🔎 Observabilidade
+- 🔐 Segurança
+- 🏗 Arquitetura escalável
 
-**Atuação Atual (Natura - SysMap Solutions):**
-- 🔄 **Integrações MuleSoft 4.x** - APIs corporativas com arquitetura API-Led Connectivity
-- ⚡ **Performance & Escalabilidade** - Otimizações em fluxos de alta volumetria (GSP/JCB)
-- 🔧 **Desenvolvimento Full Stack** - Java 6/7, Node.js 22, React.js, bancos relacionais
+Especialista em desenvolvimento **Backend com Java e Spring Boot**, além de integrações utilizando **MuleSoft 4.x** com arquitetura **API-Led Connectivity**.  
+Também possuo experiência Fullstack com **Node.js e React**, sempre com foco orientado a negócio.
 
 ---
 
-## 🛠️ **Stack Técnica**
+## 📈 Impacto & Resultados
 
-### **💼 Experiência Comercial**
-<p align="center">
-  <img src="https://img.shields.io/badge/Java%206%2F7-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 6/7" />
-  <img src="https://img.shields.io/badge/Node.js%2022-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js 22" />
-  <img src="https://img.shields.io/badge/MuleSoft%204.x-00A0DF?style=for-the-badge&logo=mulesoft&logoColor=white" alt="MuleSoft 4.x" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-### **🧪 Tecnologias & Ferramentas**
-<table align="center">
-  <tr>
-    <td><b>Back-End</b></td>
-    <td>Spring Boot, Express.js, TypeScript, RESTful APIs, SOAP</td>
-  </tr>
-  <tr>
-    <td><b>Integrações</b></td>
-    <td>API-Led Connectivity, DataWeave 2.x, Anypoint Platform</td>
-  </tr>
-  <tr>
-    <td><b>Front-End</b></td>
-    <td>React Hooks, Context API, Bootstrap, Styled Components</td>
-  </tr>
-  <tr>
-    <td><b>DevOps</b></td>
-    <td>Docker, AWS (EC2/S3/Lambda), Jenkins, Kibana, Git</td>
-  </tr>
-  <tr>
-    <td><b>Metodologias</b></td>
-    <td>Clean Architecture, SOLID, TDD, Observabilidade, Scrum</td>
-  </tr>
-</table>
+- 🔍 **+40% na rastreabilidade de integrações** com logging estruturado e monitoramento via Kibana  
+- ⚡ **+25% de ganho de performance** em fluxos críticos através de paralelismo e otimização  
+- 🚀 **Redução de até 30% no tempo de resposta** em APIs e serviços backend  
+- 🔐 Implementação de políticas corporativas de segurança (OAuth2, TLS, governança de APIs)
 
 ---
 
-## 📈 **Projetos & Métricas**
+## 🛠 Stack Principal
 
-### **🏆 Resultados em Projetos Natura**
-- ✅ **+40% rastreabilidade** através de logging estruturado e Kibana
-- ✅ **+25% performance** em fluxos críticos MuleSoft
-- ✅ **-30% tempo de resposta** em consultas otimizadas
-- ✅ **-20% falhas de segurança** com políticas OAuth/TLS
+### 💼 Backend
+Java • Spring Boot • Node.js • TypeScript • Express
 
-### **🚀 Projetos Técnicos**
-```yaml
-AuthKnex:
-  stack: [Node.js, TypeScript, PostgreSQL, JWT]
-  features: "Controle de roles, refresh token, segurança empresarial"
+### 🔄 Integrações
+MuleSoft 4.4 • DataWeave 2.x • API-Led Connectivity • Anypoint Platform
 
-RestSpring:
-  stack: [Spring Boot, JPA/Hibernate, H2, Swagger]
-  features: "API RESTful, versionamento, documentação OpenAPI"
+### 🎨 Frontend
+React.js • Hooks • Context API
 
-MuleSoft Integrations:
-  stack: [Mule 4, API-Led, DataWeave, SAP Connector]
-  features: "Transformações complexas, monitoramento proativo"
-```
+### 🗄 Banco de Dados
+Oracle • PostgreSQL • MySQL • MongoDB
+
+### ☁ Cloud & DevOps
+AWS (EC2, S3, Lambda) • Docker • Jenkins • Kibana • Observabilidade
 
 ---
 
-## 🏗️ **Experiência por Domínio**
+## 🏗 Experiência Técnica
 
-```mermaid
-graph TD
-    A[Back-End & APIs] --> B[Java Spring Boot]
-    A --> C[Node.js/TypeScript]
-    A --> D[RESTful APIs]
-    
-    E[Integrações Corporativas] --> F[MuleSoft 4.x]
-    E --> G[API-Led Connectivity]
-    E --> H[Oracle/MySQL]
-    
-    I[Front-End & UX] --> J[React.js]
-    I --> K[Context API]
-    I --> L[Performance Web]
-    
-    M[DevOps & Observabilidade] --> N[Docker]
-    M --> O[AWS]
-    M --> P[Kibana Monitoring]
-```
+- Desenvolvimento de APIs RESTful de alta performance
+- Integrações corporativas com arquitetura orientada a APIs
+- Sistemas distribuídos e processamento paralelo
+- Aplicação de princípios SOLID e Clean Architecture
+- Estratégias de observabilidade e monitoramento
+- Governança e segurança de APIs
 
 ---
 
+## 🎓 Formação Acadêmica
+
+🎓 Bacharel em Engenharia de Software – Anhanguera (2025)  
+🏛 Pós-graduação em Arquitetura de Software Distribuído – PUC Minas (em andamento)
 
 ---
 
-## 🌟 **Interesses & Cultura**
+## 🎯 Foco de Carreira
 
-```kotlin
-val personalInterests = listOf(
-    "🎌 Animes & Cultura Geek",
-    "🚀 Ficção Científica",
-    "🎮 Game Design & Mechanics",
-    "📚 Arquitetura de Software",
-    "⚡ Performance Optimization"
-)
-```
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/At8TemfUYhemteTDDN/giphy.gif" width="70" />
-  <img src="https://media.giphy.com/media/IO2ICudgtBjby/giphy.gif" width="70" />
-  <img src="https://media.giphy.com/media/A91yGpQJyBnUY/giphy.gif" width="70" />
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="70" />
-</p>
+- Backend Java
+- Arquitetura de APIs
+- Integrações Corporativas
+- Sistemas Distribuídos
+- Fullstack com foco Backend
 
 ---
 
-## 📞 **Conecte-se Comigo**
+## 📞 Conecte-se comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bene-tesla/">
@@ -152,12 +95,8 @@ val personalInterests = listOf(
   </a>
 </p>
 
-<p align="center">
-  <i>"Código é poesia. Arquitetura é arte. Performance é ciência."</i>
-</p>
+---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀-Always%20Learning-9cf" />
-  <img src="https://img.shields.io/badge/⚡-High%20Performance-blue" />
-  <img src="https://img.shields.io/badge/🏗️-Clean%20Architecture-green" />
+  <i>"Arquitetura bem definida transforma código em produto escalável."</i>
 </p>
