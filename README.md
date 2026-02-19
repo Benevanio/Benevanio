@@ -1,10 +1,12 @@
 <h1 align="center"><b>👋 Benevanio Santos</b></h1>
-<h3 align="center">Engenheiro de Software | Backend Java & Integrações Corporativas</h3>
+<h3 align="center">
+Software Engineer | Java & Spring Boot | MuleSoft | Node.js | React | AWS | Integrações e APIs de Alta Performance
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open_to_Work_🚀-brightgreen" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Integrations-blue" />
-  <img src="https://img.shields.io/badge/Architecture-Distributed%20Systems-green" />
+  <img src="https://img.shields.io/badge/Architecture-API%20Led%20Connectivity-blue" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-green" />
+  <img src="https://img.shields.io/badge/Distributed-Systems-orange" />
 </p>
 
 ---
@@ -13,71 +15,79 @@
 
 Engenheiro de Software com atuação em **sistemas corporativos de grande escala, integrações de APIs e soluções backend escaláveis**.
 
-Experiência em projetos críticos de integração para o ecossistema da **Natura**, atuando via **SysMap Solutions**, com foco em:
+Experiência em integrações críticas para o ecossistema da Natura através da SysMap Solutions, com foco em:
 
 - ⚡ Performance
 - 🔎 Observabilidade
 - 🔐 Segurança
 - 🏗 Arquitetura escalável
 
-Especialista em desenvolvimento **Backend com Java e Spring Boot**, além de integrações utilizando **MuleSoft 4.x** com arquitetura **API-Led Connectivity**.  
-Também possuo experiência Fullstack com **Node.js e React**, sempre com foco orientado a negócio.
+Especialista em **Java + Spring Boot** e integrações com **MuleSoft 4.x (API-Led Connectivity)**.  
+Experiência complementar Fullstack com **Node.js e React**, sempre orientado a negócio e performance.
 
 ---
 
 ## 📈 Impacto & Resultados
 
-- 🔍 **+40% na rastreabilidade de integrações** com logging estruturado e monitoramento via Kibana  
-- ⚡ **+25% de ganho de performance** em fluxos críticos através de paralelismo e otimização  
-- 🚀 **Redução de até 30% no tempo de resposta** em APIs e serviços backend  
-- 🔐 Implementação de políticas corporativas de segurança (OAuth2, TLS, governança de APIs)
+- 🔍 +40% na rastreabilidade de integrações com logging estruturado e monitoramento (Kibana)
+- ⚡ +25% de ganho de performance em fluxos críticos
+- 🚀 Redução de até 30% no tempo de resposta em APIs
+- 🔐 Implementação de políticas de segurança (OAuth2, TLS, governança de APIs)
 
 ---
 
 ## 🛠 Stack Principal
 
 ### 💼 Backend
-Java • Spring Boot • Node.js • TypeScript • Express
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts" />
+</p>
 
 ### 🔄 Integrações
 MuleSoft 4.4 • DataWeave 2.x • API-Led Connectivity • Anypoint Platform
 
 ### 🎨 Frontend
-React.js • Hooks • Context API
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js" />
+</p>
 
 ### 🗄 Banco de Dados
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
 Oracle • PostgreSQL • MySQL • MongoDB
 
-### ☁ Cloud & DevOps
+### ☁ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins" />
+</p>
+
 AWS (EC2, S3, Lambda) • Docker • Jenkins • Kibana • Observabilidade
 
 ---
 
-## 🏗 Experiência Técnica
+## 🏗 Especialidades Técnicas
 
 - Desenvolvimento de APIs RESTful de alta performance
-- Integrações corporativas com arquitetura orientada a APIs
-- Sistemas distribuídos e processamento paralelo
-- Aplicação de princípios SOLID e Clean Architecture
-- Estratégias de observabilidade e monitoramento
-- Governança e segurança de APIs
+- Integrações corporativas orientadas a APIs
+- Sistemas distribuídos
+- Clean Architecture & SOLID
+- Observabilidade e monitoramento
+- Segurança e governança de APIs
 
 ---
 
-## 🎓 Formação Acadêmica
+## 🎓 Formação
 
-🎓 Bacharel em Engenharia de Software – Anhanguera (2025)  
+🎓 Bacharel em Engenharia de Software – Anhanguera  
 🏛 Pós-graduação em Arquitetura de Software Distribuído – PUC Minas (em andamento)
 
 ---
 
 ## 🎯 Foco de Carreira
 
-- Backend Java
-- Arquitetura de APIs
-- Integrações Corporativas
-- Sistemas Distribuídos
-- Fullstack com foco Backend
+Backend Java • Integrações Corporativas • Arquitetura de APIs • Sistemas Distribuídos
 
 ---
 
@@ -98,5 +108,5 @@ AWS (EC2, S3, Lambda) • Docker • Jenkins • Kibana • Observabilidade
 ---
 
 <p align="center">
-  <i>"Arquitetura bem definida transforma código em produto escalável."</i>
+  <i>"Arquitetura sólida transforma código em sistemas escaláveis."</i>
 </p>
