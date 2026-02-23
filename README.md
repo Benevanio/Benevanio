@@ -37,33 +37,71 @@ Experiência complementar Fullstack com **Node.js e React**, sempre orientado a 
 ---
 
 ## 🛠 Stack Principal
+## 🚀 Frontend Engineering
 
-### 💼 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts" />
-</p>
+### 🧠 Arquitetura & Padrões
+- Clean Architecture
+- SOLID Principles
+- Componentização escalável
+- Design System
+- Atomic Design
+- Performance Optimization
+- Code Splitting & Lazy Loading
 
-### 🔄 Integrações
-MuleSoft 4.4 • DataWeave 2.x • API-Led Connectivity • Anypoint Platform
+### ⚛️ Core Stack
+![React](https://skillicons.dev/icons?i=react)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![JavaScript](https://skillicons.dev/icons?i=js)
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js" />
-</p>
+React.js • TypeScript • JavaScript ES6+ • Hooks • Context API • Custom Hooks
 
-### 🗄 Banco de Dados
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-</p>
+---
 
-Oracle • PostgreSQL • MySQL • MongoDB
+### 🧪 Testes & Qualidade
+![Jest](https://skillicons.dev/icons?i=jest)
+![Testing Library](https://skillicons.dev/icons?i=testinglibrary)
 
-### ☁ DevOps & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins" />
-</p>
+- Jest
+- React Testing Library
+- Testes unitários
+- Testes de integração
+- Mocks & Spies
+- Coverage Strategy
+- TDD mindset
 
-AWS (EC2, S3, Lambda) • Docker • Jenkins • Kibana • Observabilidade
+---
+
+### 🎨 UI & Experiência
+- UX-driven development
+- Responsividade
+- Acessibilidade (WCAG)
+- Performance Web Vitals
+- SEO técnico
+- Microinterações
+
+---
+
+### 🔄 Integração com APIs
+- RESTful APIs
+- API-Led Connectivity
+- Tratamento de erros resiliente
+- Retry patterns
+- Axios / Fetch
+- Controle de estado server-side (React Query / SWR)
+
+---
+
+### ⚙️ Dev Practices
+![Git](https://skillicons.dev/icons?i=git)
+![Docker](https://skillicons.dev/icons?i=docker)
+![AWS](https://skillicons.dev/icons?i=aws)
+
+- Git Flow
+- CI/CD
+- Docker
+- Deploy em Cloud
+- Monitoramento
+- Logs estruturados
 
 ---
 
