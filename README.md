@@ -20,16 +20,48 @@ Software Engineer | Java & Spring Boot | MuleSoft | Node.js | React | AWS | Inte
 
 ---
 
-## 📋 Perfil Profissional
+# 📋 Perfil Profissional
 
-Engenheiro de Software com atuação em **sistemas corporativos de grande escala, integrações de APIs e soluções backend escaláveis**.
+Engenheiro de Software com atuação em **sistemas corporativos de grande escala, integrações de APIs e soluções backend escaláveis**, combinando experiência em integrações críticas com desenvolvimento fullstack moderno.
 
-Experiência em integrações críticas para o ecossistema da Natura através da SysMap Solutions, com foco em:
+---
 
-- ⚡ Performance
-- 🔎 Observabilidade
-- 🔐 Segurança
-- 🏗 Arquitetura escalável
+## 💼 Experiência Profissional
+
+### 🚀 Geodigitus (Março 2025 - Presente)
+**Software Engineer - Fullstack (React & Node.js)**  
+<img src="https://geodigitus.com/site/wp-content/uploads/2018/09/logo-br.png" width="260" height="80" align="left" style="margin-right: 10px;" />
+
+---
+Desenvolvimento de soluções web para monitoramento de fundações, utilizando React e Node.js. Atuação na criação de dashboards interativos, APIs para coleta de dados em tempo real e interfaces responsivas para acesso móvel.
+
+### 🏢 SysMap Solutions (Período Anterior)
+**Software Engineer - Integrações Corporativas**
+
+<img src="https://media.licdn.com/dms/image/v2/D4D0BAQF9hclRurD5gA/company-logo_200_200/company-logo_200_200/0/1733148827276/sysmap_solutions_logo?e=1775088000&v=beta&t=HtPsCtLfsNV86bdSj02EqONPKujeOERWnIClQuxcKl4" width="250" height="80" align="left" style="margin-right: 10px;" />
+
+
+
+---
+
+
+
+
+**Atuação Técnica e Impacto**
+
+• Desenvolvimento e manutenção de integrações corporativas utilizando MuleSoft  
+• Criação e evolução de APIs REST seguindo arquitetura API-Led Connectivity  
+• Desenvolvimento de soluções backend utilizando Java e Node.js  
+• Implementação de soluções frontend com React  
+• Integração com sistemas corporativos e bancos de dados relacionais  
+• Implementação de monitoramento e observabilidade com Kibana  
+• Participação em decisões técnicas e revisão de código  
+
+**Resultados Relevantes**  
+
+✔ Aumento de 40% na rastreabilidade de integrações  
+✔ Melhoria de 25% na performance de fluxos críticos  
+✔ Redução de até 30% no tempo de resposta de serviços backend  
 
 ---
 
