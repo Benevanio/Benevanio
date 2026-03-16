@@ -28,12 +28,6 @@ Engenheiro de Software com atuação em **sistemas corporativos de grande escala
 
 ## 💼 Experiência Profissional
 
-### 🚀 Geodigitus (Março 2025 - Presente)
-**Software Engineer - Fullstack (React & Node.js)**  
-<img src="https://geodigitus.com/site/wp-content/uploads/2018/09/logo-br.png" width="260" height="80" align="left" style="margin-right: 10px;" />
-
----
-Desenvolvimento de soluções web para monitoramento de fundações, utilizando React e Node.js. Atuação na criação de dashboards interativos, APIs para coleta de dados em tempo real e interfaces responsivas para acesso móvel.
 
 ### 🏢 SysMap Solutions (Período Anterior)
 **Software Engineer - Integrações Corporativas**
