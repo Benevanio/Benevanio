@@ -1,12 +1,13 @@
 <h1 align="center"><b>👋 Benevanio Santos</b></h1>
 <h3 align="center">
-Software Engineer | Java & Spring Boot | MuleSoft | Node.js | React | AWS | Integrações e APIs de Alta Performance
+Software Engineer | Rust & Tauri | Node.js & React | Java & Spring Boot | MuleSoft | AWS | Integrações e APIs de Alta Performance
 </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Architecture-API%20Led%20Connectivity-blue" />
   <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-green" />
   <img src="https://img.shields.io/badge/Distributed-Systems-orange" />
+  <img src="https://img.shields.io/badge/Desktop-High%20Performance-red" />
 </p>
 
 <!-- Dragon Ball Reference - Vegeta -->
@@ -22,24 +23,42 @@ Software Engineer | Java & Spring Boot | MuleSoft | Node.js | React | AWS | Inte
 
 # 📋 Perfil Profissional
 
-Engenheiro de Software com atuação em **sistemas corporativos de grande escala, integrações de APIs e soluções backend escaláveis**, combinando experiência em integrações críticas com desenvolvimento fullstack moderno.
+Engenheiro de Software com atuação em **sistemas corporativos de grande escala, integrações de APIs e soluções backend escaláveis**, combinando experiência em integrações críticas com desenvolvimento fullstack moderno. Atualmente focado em **aplicações desktop de alta performance** utilizando **Rust** e **Tauri**, aliando velocidade nativa com interfaces ricas em React.
 
 ---
 
 ## 💼 Experiência Profissional
 
+### 🏢 Geodigitus (Frannar) – Engenheiro de Software
+**Período:** Atual  
+**Stack:** Rust, Tauri, React, TypeScript, Node.js, SQLite, Jest, Cypress, Jenkins, Gitea, Swagger, Plane
 
-### 🏢 SysMap Solutions (Período Anterior)
-**Software Engineer - Integrações Corporativas**
+<img src="https://geodigitus.com/site/wp-content/uploads/2018/09/logo-br.png" width="120" align="left" style="margin-right: 10px;" />
 
-<img src="https://media.licdn.com/dms/image/v2/D4D0BAQF9hclRurD5gA/company-logo_200_200/company-logo_200_200/0/1733148827276/sysmap_solutions_logo?e=1775088000&v=beta&t=HtPsCtLfsNV86bdSj02EqONPKujeOERWnIClQuxcKl4" width="250" height="80" align="left" style="margin-right: 10px;" />
+**Atuação Técnica e Impacto**
 
+• Desenvolvimento de aplicações desktop de alta performance utilizando **Rust** (core da aplicação) e **Tauri** (interface com React)  
+• Construção de sistemas que rodam nativamente em Windows, Linux e Mac com consumo otimizado de recursos  
+• Criação de APIs backend com Node.js (Express) e tipagem forte com TypeScript  
+• Manipulação de dados locais com SQLite para funcionamento offline e alta velocidade  
+• Automação de builds e deploys com CI/CD usando Jenkins e Gitea  
+• Implementação de testes unitários com Jest e testes end-to-end com Cypress  
+• Padronização de commits com Conventional Commits e Husky  
+• Documentação de APIs via Swagger e gestão de tarefas com Plane (alternativa moderna ao Jira)  
 
+**Resultados Relevantes**  
+
+✔ Aplicações desktop com performance nativa e baixo uso de memória  
+✔ Pipeline de entrega totalmente automatizada, garantindo qualidade e rastreabilidade  
+✔ Integração contínua com práticas modernas de engenharia de software  
 
 ---
 
+### 🏢 SysMap Solutions – Engenheiro de Software (Contrato Encerrado)
+**Período:** Anterior  
+**Stack:** MuleSoft, Java, Spring Boot, Node.js, React, AWS, Kibana, MySQL, PostgreSQL
 
-
+<img src="https://media.licdn.com/dms/image/v2/D4D0BAQF9hclRurD5gA/company-logo_200_200/company-logo_200_200/0/1733148827276/sysmap_solutions_logo?e=1775088000&v=beta&t=HtPsCtLfsNV86bdSj02EqONPKujeOERWnIClQuxcKl4" width="250" height="80" align="left" style="margin-right: 10px;" />
 
 **Atuação Técnica e Impacto**
 
@@ -63,17 +82,20 @@ Engenheiro de Software com atuação em **sistemas corporativos de grande escala
 
 ### Backend Core
 <p align="left">
+  <img  alt="image" src="https://github.com/user-attachments/assets/964f77a7-c02e-4d97-8bb5-887a2d1d75fd" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60" />
 </p>
 
-### Frontend & Mobile
+### Frontend & Desktop
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="60" />
+  <img alt="image" src="https://github.com/user-attachments/assets/58520ab2-231f-4531-beca-704b74fa6277"  width="60" height="60" />
+
 </p>
 
 ### Cloud & DevOps
@@ -82,10 +104,13 @@ Engenheiro de Software com atuação em **sistemas corporativos de grande escala
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60" height="60" />
+  <img src="https://blog.gitea.com/img/blog_placeholder.png" width="60" height="60" />
 </p>
 
 ### Banco de Dados & Mensageria
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60" />
@@ -97,6 +122,13 @@ Engenheiro de Software com atuação em **sistemas corporativos de grande escala
   <img src="https://www.vectorlogo.zone/logos/mulesoft/mulesoft-icon.svg" width="60" height="60" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60" height="60" />
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="60" height="60" />
+</p>
+
+### Testes & Qualidade
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo-dark.png" width="60" height="60" />
 </p>
 
 ---
@@ -111,6 +143,7 @@ Engenheiro de Software com atuação em **sistemas corporativos de grande escala
 - Atomic Design
 - Performance Optimization
 - Code Splitting & Lazy Loading
+- Tauri + React (Desktop Apps)
 
 ---
 
@@ -127,12 +160,9 @@ Engenheiro de Software com atuação em **sistemas corporativos de grande escala
 ---
 
 ### 🧪 Testes & Qualidade
-![Jest](https://skillicons.dev/icons?i=jest)
-![Testing Library](https://skillicons.dev/icons?i=testinglibrary)
-
-- Jest
+- Jest (unitário)
 - React Testing Library
-- Testes unitários
+- Cypress (E2E)
 - Testes de integração
 - Mocks & Spies
 - Coverage Strategy
@@ -166,7 +196,9 @@ Engenheiro de Software com atuação em **sistemas corporativos de grande escala
 ![AWS](https://skillicons.dev/icons?i=aws)
 
 - Git Flow
-- CI/CD
+- CI/CD (Jenkins + Gitea)
+- Conventional Commits
+- Husky
 - Docker
 - Deploy em Cloud
 - Monitoramento
@@ -178,6 +210,8 @@ Engenheiro de Software com atuação em **sistemas corporativos de grande escala
 
 - Desenvolvimento de APIs RESTful de alta performance
 - Integrações corporativas orientadas a APIs
+- **Aplicações desktop nativas com Rust e Tauri**
+- **Otimização de performance e consumo de memória**
 - Sistemas distribuídos
 - Clean Architecture & SOLID
 - Observabilidade e monitoramento
@@ -205,7 +239,7 @@ Engenheiro de Software com atuação em **sistemas corporativos de grande escala
 
 ## 🎯 Foco de Carreira
 
-Backend Java • Integrações Corporativas • Arquitetura de APIs • Sistemas Distribuídos
+**Backend Java • Rust • Tauri • Integrações Corporativas • Arquitetura de APIs • Sistemas Distribuídos • Aplicações Desktop de Alta Performance**
 
 ---
 
