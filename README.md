@@ -288,3 +288,7 @@ Engenheiro de Software com atuação em **sistemas corporativos de grande escala
   <img src="https://github-readme-stats.vercel.app/api?username=Benevanio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benevanio&layout=compact&theme=tokyonight&hide_border=true" width="330" />
 </p>
+
+
+
+![Profile views](https://komarev.com/ghpvc/?username=Benevanio&color=blue&style=flat)
