@@ -292,3 +292,6 @@ Engenheiro de Software com atuação em **sistemas corporativos de grande escala
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=Benevanio&color=blue&style=flat)
+
+
+![Snake animation](https://raw.githubusercontent.com/Benevanio/Benevanio/output/github-contribution-grid-snake.svg)
