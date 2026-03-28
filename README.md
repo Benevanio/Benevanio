@@ -1,7 +1,6 @@
 <h1 align="center"><b>👋 Benevanio Santos</b></h1>
 <h3 align="center">
-  Software Engineer | Rust & Tauri | Node.js & React | Java & Spring Boot | MuleSoft | AWS | Integrações e APIs de Alta Performance
-</h3>
+Software Engineer | Java & Spring Boot | MuleSoft | Node.js | React | AWS | Integrações e APIs de Alta Performance</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Architecture-API%20Led%20Connectivity-blue" />
@@ -30,7 +29,7 @@ Engenheiro de Software com atuação em **sistemas corporativos de grande escala
 
 ### 🏢 Geodigitus (Frannar) – Engenheiro de Software  
 **Período:** Atual  
-**Stack:** Rust, Tauri, React, TypeScript, Node.js, SQLite, Jest, Cypress, Jenkins, Gitea, Swagger, Plane
+**Stack:** Tauri, React, TypeScript, Node.js, SQLite, Jest, Cypress, Jenkins, Gitea, Swagger, Plane
 
 <img src="https://geodigitus.com/site/wp-content/uploads/2018/09/logo-br.png" width="120" align="left" style="margin-right: 15px;" />
 
@@ -81,7 +80,6 @@ Engenheiro de Software com atuação em **sistemas corporativos de grande escala
 
 ### Backend Core
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/964f77a7-c02e-4d97-8bb5-887a2d1d75fd" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60" />
 </p>
@@ -103,7 +101,6 @@ Engenheiro de Software com atuação em **sistemas corporativos de grande escala
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60" height="60" />
-  <img src="https://gitea.io/images/gitea.png" width="60" height="60" />
 </p>
 
 ### Banco de Dados & Mensageria
@@ -153,7 +150,7 @@ Engenheiro de Software com atuação em **sistemas corporativos de grande escala
 
 ## 🎯 Foco de Carreira
 
-**Backend Java • Rust • Tauri • Integrações Corporativas • Arquitetura de APIs • Sistemas Distribuídos • Aplicações Desktop de Alta Performance**
+**Backend Java • Tauri • Integrações Corporativas • Arquitetura de APIs • Sistemas Distribuídos • Aplicações Desktop de Alta Performance**
 
 ---
 
