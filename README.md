@@ -17,6 +17,7 @@ Software Engineer | Java & Spring Boot | MuleSoft | Node.js | React | AWS | Inte
   </div>
 </div>
 
+![Image](https://github.com/user-attachments/assets/762426da-3171-4ffd-b79a-df8ee8d23a10)
 ---
 
 ## 📋 Perfil Profissional
