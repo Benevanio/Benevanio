@@ -57,7 +57,7 @@ Engenheiro de Software com atuação em **sistemas corporativos de grande escala
 **Período:** Anterior  
 **Stack:** MuleSoft, Java, Spring Boot, Node.js, React, AWS, Kibana, MySQL, PostgreSQL
 
-<img src="https://media.licdn.com/dms/image/v2/D4D0BAQF9hclRurD5gA/company-logo_200_200/company-logo_200_200/0/1733148827276/sysmap_solutions_logo?e=1775088000&v=beta&t=HtPsCtLfsNV86bdSj02EqONPKujeOERWnIClQuxcKl4" width="120" align="left" style="margin-right: 15px;" />
+<img src="https://media.licdn.com/dms/image/v2/D4D0BAQF9hclRurD5gA/company-logo_200_200/company-logo_200_200/0/1733148827276/sysmap_solutions_logo?e=1775088000&v=beta&t=HtPsCtLfsNV86bdSj02EqONPKujeOERWnIClQuxcKl4" width="60" align="left" style=" margin: 15px 20px 40px 60px" />
 
 **Atuação Técnica e Impacto**
 
