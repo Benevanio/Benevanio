@@ -76,10 +76,6 @@
 
 > *Ferramental de elite, escolhido por eficiência e prazer estético de codar.*
 
-## 🛠 Stack Principal
-
-> *Ferramental de elite, escolhido por eficiência e prazer estético de codar.*
-
 **Backend Core**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64" height="64" title="Java" />&nbsp;&nbsp;
