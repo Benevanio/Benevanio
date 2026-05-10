@@ -26,7 +26,7 @@
 
 ## 📋 Perfil Profissional
 
-> ** Software Engineer** com mais de 3+ projetando sistemas corporativos de **alta disponibilidade e escala global**.  
+> ** Software Engineer** com mais de 3+ anos projetando sistemas corporativos de **alta disponibilidade e escala global**.  
 > Especialista em **integrações críticas**, **arquitetura orientada a eventos** e **aplicações desktop de performance nativa**.  
 > Atuo como **tech lead silencioso**: removo bloqueios arquiteturais, elevo a barra de qualidade do código e garanto que sistemas distribuídos entreguem latência previsível sob picos de carga.  
 > Minha stack atual combina **Rust + Tauri** para experiências desktop ultrarrápidas e **Java/Spring Boot** para backends que processam milhões de requisições/dia.  
