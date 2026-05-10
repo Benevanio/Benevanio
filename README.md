@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Benevanio+Santos;%E7%81%AB%E5%BD%B1%E5%BC%8F%E3%81%AE%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2;Staff+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Benevanio+Santos;%E7%81%AB%E5%BD%B1%E5%BC%8F%E3%81%AE%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2;Software+Software+Engineer" />
 </h1>
 
 <h3 align="center">
@@ -160,7 +160,7 @@
 
 ## 🎯 Foco de Carreira
 
-**Staff Engineering • Arquitetura de Sistemas Distribuídos • Rust/Tauri • Integrações Enterprise • Liderança Técnica • Aplicações Desktop de Alta Performance**
+**Software Engineering • Arquitetura de Sistemas Distribuídos • Rust/Tauri • Integrações Enterprise • Liderança Técnica • Aplicações Desktop de Alta Performance**
 
 ---
 
