@@ -3,10 +3,8 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://img.shields.io/badge/L6-Staff_Engineer-gold?style=flat-square&logo=google" />
   <img src="https://img.shields.io/badge/Backend-Distributed_Systems-9cf?style=flat-square&logo=apache" />
   <img src="https://img.shields.io/badge/Focus-High--Impact_Integrations-blueviolet?style=flat-square&logo=mulesoft" />
-  <img src="https://img.shields.io/badge/Desktop-Native_Performance_(Rust_•_Tauri)-black?style=flat-square&logo=tauri" />
 </h3>
 
 <p align="center">
