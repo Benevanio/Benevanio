@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Benevanio+Santos;%E7%81%AB%E5%BD%B1%E5%BC%8F%E3%81%AE%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2;Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Benevanio+Santos;Software+Engineer+%7C+Distributed+Systems" />
 </h1>
 
 <h3 align="center">
@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/Cloud-AWS_Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws" />
 </p>
 
-
 <br>
 
 <div align="center">
@@ -24,13 +23,13 @@
 
 ---
 
-## 📋 Perfil Profissional
+## 📋 Perfil Executivo
 
-> ** Software Engineer** com mais de 3+ anos projetando sistemas corporativos de **alta disponibilidade e escala global**.  
-> Especialista em **integrações críticas**, **arquitetura orientada a eventos** e **aplicações desktop de performance nativa**.  
-> Atuo como **tech lead silencioso**: removo bloqueios arquiteturais, elevo a barra de qualidade do código e garanto que sistemas distribuídos entreguem latência previsível sob picos de carga.  
-> Minha stack atual combina **Rust + Tauri** para experiências desktop ultrarrápidas e **Java/Spring Boot** para backends que processam milhões de requisições/dia.  
-> *Acredito que engenharia de elite é um espírito Sayajin: superar limites continuamente enquanto protege o que importa — dados, usuários e a sanidade do time.*
+> **Software Engineer** com mais de 3 anos de atuação no projeto e evolução de sistemas corporativos de **alta disponibilidade e escala global**.  
+> Especialista em **integrações críticas**, **arquitetura orientada a eventos** e **aplicações desktop de alto desempenho**.  
+> Atuo como referência técnica, removendo bloqueios arquiteturais, elevando a qualidade do código e assegurando que sistemas distribuídos entreguem latência previsível mesmo sob picos de carga.  
+> Stack atual combina **Rust + Tauri** para experiências desktop nativas e **Java/Spring Boot** para backends que processam milhões de requisições diárias.  
+> *Acredito que engenharia de excelência é um compromisso contínuo com a superação de limites, protegendo o que é essencial: dados, usuários e a produtividade do time.*
 
 ---
 
@@ -40,17 +39,17 @@
 **Período:** Atual  
 **Stack:** Rust • Tauri • React • TypeScript • Node.js • SQLite • Jest • Cypress • Jenkins • Gitea • Swagger • Plane
 
-<div style="display: flex; align-items: center; justify-content: center; margin: 24px 0;">
-  <img src="https://geodigitus.com/site/wp-content/uploads/2018/09/logo-br.png" width="140" style="margin-right: 20px;" />
+<div align="center" style="margin: 24px 0;">
+  <img src="https://geodigitus.com/site/wp-content/uploads/2018/09/logo-br.png" width="140" />
 </div>
 
-| Missão Técnica | Impacto Mensurável |
-|----------------|---------------------|
-| Arquitetura e desenvolvimento do core desktop em **Rust**, comunicando-se com frontend **React** via **Tauri** (IPC otimizado) | ⚡ Redução de **60% no consumo de RAM** comparado a Electron; startup inferior a 800ms |
-| Desenho de APIs backend em **Node.js/TypeScript** com caching agressivo e **offline-first** via **SQLite** local | 📦 Aplicação funcional mesmo em redes instáveis (fazendas/conectividade rural) |
-| Pipeline CI/CD com **Jenkins + Gitea** e testes **E2E com Cypress** em matriz multiplataforma (Windows/Linux/macOS) | 🚀 Deploy automatizado para 3 sistemas operacionais com relatório de regressão visual |
-| Revisão de código e design docs para decisões críticas (escolha de protocolo de comunicação, estratégia de migração de dados) | 📋 Zero regressões críticas em produção após implantação de Conventional Commits + Husky |
-| Documentação de APIs internas com **Swagger** e gestão ágil com **Plane** | 🤝 Onboarding de novos engenheiros reduzido de 4 semanas para 1 semana |
+| Responsabilidades Técnicas | Resultados Alcançados |
+|----------------------------|------------------------|
+| Arquitetura e desenvolvimento do core desktop em **Rust**, integrado ao frontend **React** via **Tauri** (IPC otimizado) | Redução de **60% no consumo de RAM** em comparação com Electron; inicialização inferior a 800ms |
+| Definição de APIs backend em **Node.js/TypeScript** com caching agressivo e estratégia **offline-first** utilizando **SQLite** local | Aplicação funcional mesmo em condições de conectividade instável (áreas rurais) |
+| Pipeline CI/CD com **Jenkins + Gitea**, incluindo testes **E2E com Cypress** em matriz multiplataforma (Windows/Linux/macOS) | Deploy automatizado para 3 sistemas operacionais com relatórios de regressão visual |
+| Revisão de código e elaboração de design docs para decisões críticas (protocolos de comunicação, migração de dados) | Nenhuma regressão crítica em produção após implantação de Conventional Commits + Husky |
+| Documentação de APIs internas com **Swagger** e gestão ágil via **Plane** | Redução do tempo de integração de novos engenheiros de 4 semanas para 1 semana |
 
 ---
 
@@ -58,23 +57,23 @@
 **Período:** Anterior  
 **Stack:** MuleSoft • Java • Spring Boot • Node.js • React • AWS • Kibana • MySQL • PostgreSQL
 
-<div style="display: flex; align-items: center; justify-content: center; margin: 24px 0;">
-  <img src="https://media.licdn.com/dms/image/v2/D4D0BAQF9hclRurD5gA/company-logo_200_200/company-logo_200_200/0/1733148827276/sysmap_solutions_logo?e=1775088000&v=beta&t=HtPsCtLfsNV86bdSj02EqONPKujeOERWnIClQuxcKl4" width="80" />
+<div align="center" style="margin: 24px 0;">
+  <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgSBg4UBxMWFhUXGBYbFxMYFxsgFRwVIB0fHiAdHx8kHzQsICUpJx8XLT0hMTU3Ly4xIyszQTMvNzQtOjcBCgoKDg0NGg8PGzUlHyUuNy03Ny0tOCsrLTc3MC84Ky03NC03Nzc3LSstLTctKy0tNy0rKyszLi0rNzcrLSsrK//AABEIAGQAZAMBIgACEQEDEQH/xAAaAAEBAQADAQAAAAAAAAAAAAAABgcDBAUB/8QAMRAAAQMDAwIFAwIHAQAAAAAAAQACAwQFEQYSIQcxEyJBYYEUUXEykTNSc4KhscEW/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAUCBP/EAB0RAQACAgMBAQAAAAAAAAAAAAABAhJRFSFBFAP/2gAMAwEAAhEDEQA/ANxREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBTOr9b2O2+GLq9xe/lkMbd0hHbOPQfkjKpljmr6p9s6sC4XiCSWlfCGMkY3PhPwAe/APDuMjhxwgrtN9TtO1lzbBEZYpnfpjmZtLvYEEj4JVqoqx660pcKwC0ys+qDXiLxYyHjI52kjntyAfRcfT/Wk9Vp+tk1AGRzUkkjZ2tBADWjOcEn7OH9pQXKLIKbqZqA6Vpp3wxGesqXRUjCC2MMBDdzzu58xx6dsqqsT+obbtG3UDaJ8Dg4vkic8PZxwAD3/AG+Qg9+gv1vmrXxUr8ubn0ODjvg+q5btdqSmhDq04BOAAMklZbb55WT1DoCQ4MfgjuMkD/vdKiqqH2hgncXbZDjJyRloyqfwRlHfSNyVsJ67a5SVMUlMx9OctcMg+y5lBfUasGnbezSUUDt4d4k0zjtjwTjyjk5555/C8ka41TSXiak1VFTmU0000E0O7YSxj34cCe3kd9u3vlTr1xtMaVvztlSLT7DVEWOWrWXUir0z9ZbYKTw4w8uDt++XaTuLG7uABxjOSQfwtD0NqNlx0zT1LW7C/IezOcPacEfjjI9istqBERAUXe+pNho9RPpb2JYsNaRM6NxidnuBjJPpzjHf7K0XWraCjmi210TJG/yvaHD9iEGLapudkuetrO3RDN80cwfLUMiLAIw5p8xIBOME8/gd11up1PcaPWFbDaG+W7RxNAHbxt7Wu/fzZ/qLcaG3UMLCLfFHGD3DGNaP8BQNBZNR1vUKKr1LA2CCkDxTxh7XF7ySA/gnHGDzjs33QfdaUei6XTFuotVBwiGGRSNa7LXNby8ub2z85z24yIulmt1PrK1M6eV9TUeJKBPC57nRCHIyT5QO2774xnhbFqfxTQNZBGJC97QWmPeNueeDwPy7heHb47jAZDQ0McQdI1o8KGNrg3ccn9Q3cDucDJGMhBN6ftz5rpNEctJY8E47HI7/ACufUFhlpLVEJnBxc9xJGdo4GB/tVT6i9GWqNDCIyCS0vYDu4Aa3hw3ZO5xd6cDnlda4DUHj42ibBDA4xjafKHFxbvAwSQ3JPl2u9SAu77rZxPmkzja4THu2f6guL23mz099qZqWgdA55fE5zN0u5/DnAdv4fHpn3yp66OsX/u4xpyeWeMUdbukke5/n+nnJDS70Ax7crYbs+6TQytqqWMxtaXMa+Iy7nZLGt2/G7djgFufUrt3KxQHSkzYKePxvppWRgRxtcHPY4bRjhvJxwccrjvbK022oUrjSK6Zt0+6h2Cl6Y+BXybZo2zhsW12ZNznubtOMd3Y7+hVj0RoKiLp5TfUgtL3SPAPfaXcH5Az8rl6caWjj0RQR6hpY/Gi8XiRjHObmV7hg8+hB4VwBxwstvqIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiD/2Q==" width="80" />
 </div>
 
-| Missão Técnica | Impacto Mensurável |
-|----------------|---------------------|
-| Arquitetura de integrações corporativas com **MuleSoft**, aplicando **API-Led Connectivity** (Experience, Process, System) | 🔄 40% mais rastreabilidade entre legado e sistemas modernos |
-| Refatoração de serviços backend críticos em **Java 17 + Spring Boot**, com aplicação de **padrões de resiliência** (Circuit Breaker, Retry) | ⚡ Redução de latência P99 em **30%**; throughput aumentado em 1.8x |
-| Implementação de frontend com **React** integrado a legados via BFF (Backend for Frontend) | 🖥️ Interface unificada que eliminou 3 sistemas legados no fluxo do usuário |
-| Monitoramento e observabilidade com **Kibana/Elasticsearch** e alertas em tempo real para falhas de integração | 🔔 Redução de MTTR (Mean Time to Recovery) de horas para minutos |
-| Mentoria de engenheiros juniores e revisão de código em múltiplos squads | 🌱 Promoção de 2 devs para pleno em 12 meses |
+| Responsabilidades Técnicas | Resultados Alcançados |
+|----------------------------|------------------------|
+| Arquitetura de integrações corporativas com **MuleSoft**, aplicando **API-Led Connectivity** (Experience, Process, System) | Aumento de 40% na rastreabilidade entre sistemas legados e modernos |
+| Refatoração de serviços backend críticos em **Java 17 + Spring Boot**, com aplicação de padrões de resiliência (Circuit Breaker, Retry) | Redução de 30% na latência P99; throughput 1.8x maior |
+| Desenvolvimento de frontend com **React** integrado a sistemas legados por meio de BFF (Backend for Frontend) | Interface unificada que eliminou 3 sistemas legados no fluxo do usuário |
+| Monitoramento e observabilidade com **Kibana/Elasticsearch** e alertas proativos para falhas de integração | Redução do MTTR (Mean Time to Recovery) de horas para minutos |
+| Mentoria de engenheiros juniores e revisão de código em múltiplos squads | Promoção de 2 colaboradores a pleno em 12 meses |
 
 ---
 
-## 🛠 Stack Principal
+## 🛠 Stack Tecnológica
 
-> *Ferramental de elite, escolhido por eficiência e prazer estético de codar.*
+> *Ferramental selecionado por eficiência, segurança e alinhamento com as melhores práticas da indústria.*
 
 **Backend Core**
 <p align="center">
@@ -124,7 +123,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="64" height="64" title="OpenAPI/Swagger" />
 </p>
 
-**Testes & Qualidade**
+**Testes & Qualidade de Código**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="64" height="64" title="Jest" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo-dark.png" width="64" height="64" title="Cypress" />&nbsp;&nbsp;
@@ -135,17 +134,17 @@
 
 ## 🏗 Especialidades Técnicas
 
-- **Sistemas Distribuídos**: consistência eventual, transações distribuídas (Saga), padrões de resiliência (Circuit Breaker, Bulkhead)
+- **Sistemas Distribuídos**: Consistência eventual, transações distribuídas (Saga), padrões de resiliência (Circuit Breaker, Bulkhead)
 - **Arquitetura de APIs**: REST maduro (nível 3 Richardson), GraphQL para frontends exigentes, API-Led Connectivity
-- **Aplicações Desktop Nativas**: Rust + Tauri para performance e segurança de memória; substituição de stacks Electron legadas
-- **Otimização de Performance**: profiling de CPU/memória, caching multinível, lazy loading, code splitting
-- **Cloud Native**: contêineres, orquestração com Kubernetes, IaC com Terraform, arquiteturas serverless quando pertinente
-- **Engenharia de Confiabilidade**: SLOs/SLIs, alertas baseados em burning rate, postmortems blameless
-- **Liderança Técnica**: design docs, RFCs, mentoria, revisão de código em larga escala, definição de coding standards
+- **Aplicações Desktop Nativas**: Rust + Tauri para desempenho e segurança de memória; migração de stacks Electron legadas
+- **Otimização de Performance**: Profiling de CPU/memória, caching multinível, lazy loading, code splitting
+- **Cloud Native**: Contêineres, orquestração com Kubernetes, IaC com Terraform, arquiteturas serverless quando pertinente
+- **Engenharia de Confiabilidade**: Definição de SLOs/SLIs, alertas baseados em burning rate, postmortems blameless
+- **Liderança Técnica**: Design docs, RFCs, mentoria, revisão de código em larga escala, definição de coding standards
 
 ---
 
-## 🎓 Formação
+## 🎓 Formação Acadêmica
 
 🎓 **Bacharel em Engenharia de Software** – Anhanguera  
 🏛 **Pós-graduação em Arquitetura de Software Distribuído** – PUC Minas *(em andamento)*
@@ -158,7 +157,7 @@
 
 ---
 
-## 📞 Conecte-se comigo
+## 📞 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bene-tesla/">
@@ -177,25 +176,10 @@
 
 ---
 
-## 🌟 Inspirações & Filosofia de Código
+## 🧭 Filosofia de Engenharia
 
-> *"Assim como Vegeta protege a Bulma, eu protejo a integridade das integrações."*  
-> *"Nunca desistir dos meus códigos, esse é meu jeito ninja de ser!"*  
-> *"Código bem escrito é uma forma de cuidado — com o usuário, com o time, com o futuro."*
-
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-  <img src="https://i.pinimg.com/originals/2e/5b/aa/2e5baa644f66c1a747ad0dcccd7f54a8.gif" width="120" />
-  <img src="https://media.tenor.com/nfM1diMilnEAAAAM/vegeta-broly.gif" width="120" />
-  <img src="https://i.redd.it/naruto-gifs-for-cover-screen-v0-5q86urtgteuf1.gif?width=480&auto=webp&s=46a688bc97a28f7587f8440ca22d927b5861f3ea" width="120" />
-  <img src="https://giffiles.alphacoders.com/221/221688.gif" width="120" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Orgulho-Saiyajin-ff69b4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Protegendo-A_Bulma_da_Vida_Real-9cf?style=flat-square" />
-  <img src="https://img.shields.io/badge/APIs-Com_Alma-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Jeito_Ninja-De_Codar-orange?style=flat-square" />
-</p>
+> *"Código bem escrito é uma forma de cuidado — com o usuário, com o time, com o futuro."*  
+> *"A verdadeira excelência técnica está na capacidade de entregar resultados previsíveis e sustentáveis, mesmo sob alta complexidade."*
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Benevanio&style=flat-square&color=ff69b4" alt="Profile views" />
