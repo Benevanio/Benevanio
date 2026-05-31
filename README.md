@@ -35,7 +35,7 @@
 
 ## 💼 Experiência Profissional
 
-### 🏢 Geodigitus (Frannar) – Staff Software Engineer  
+### 🏢 Geodigitus (Frannar) – Software Engineer  
 **Período:** Atual  
 **Stack:** Rust • Tauri • React • TypeScript • Node.js • SQLite • Jest • Cypress • Jenkins • Gitea • Swagger • Plane
 
@@ -53,7 +53,7 @@
 
 ---
 
-### 🏢 SysMap Solutions – Engenheiro de Software Sênior (Contrato Encerrado)  
+### 🏢 SysMap Solutions – Engenheiro de Software  (Contrato Encerrado)  
 **Período:** Anterior  
 **Stack:** MuleSoft • Java • Spring Boot • Node.js • React • AWS • Kibana • MySQL • PostgreSQL
 
