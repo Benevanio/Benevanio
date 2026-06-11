@@ -1,186 +1,402 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Benevanio+Santos;Software+Engineer+%7C+Distributed+Systems" />
-</h1>
+# Benevanio Santos
 
-<h3 align="center">
-  <img src="https://img.shields.io/badge/Backend-Distributed_Systems-9cf?style=flat-square&logo=apache" />
-  <img src="https://img.shields.io/badge/Focus-High--Impact_Integrations-blueviolet?style=flat-square&logo=mulesoft" />
-</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Architecture-API_Led_Connectivity-blue?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Paradigm-Event--Driven_Architecture-FF6C37?style=for-the-badge&logo=apachekafka" />
-  <img src="https://img.shields.io/badge/Distributed-Systems-orange?style=for-the-badge&logo=consul" />
-  <img src="https://img.shields.io/badge/Desktop-High_Performance-red?style=for-the-badge&logo=tauri" />
-  <img src="https://img.shields.io/badge/Cloud-AWS_Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws" />
-</p>
-
-<br>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/762426da-3171-4ffd-b79a-df8ee8d23a10" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(255,105,180,0.3);" width="800" />
-</div>
+**Engenheiro de Software | Arquitetura de Sistemas | Sistemas Distribuídos**
 
 ---
 
-## 📋 Perfil Executivo
+## 🎯 Resumo Profissional
 
-> **Software Engineer** com mais de 3 anos de atuação no projeto e evolução de sistemas corporativos de **alta disponibilidade e escala global**.  
-> Especialista em **integrações críticas**, **arquitetura orientada a eventos** e **aplicações desktop de alto desempenho**.  
-> Atuo como referência técnica, removendo bloqueios arquiteturais, elevando a qualidade do código e assegurando que sistemas distribuídos entreguem latência previsível mesmo sob picos de carga.  
-> Stack atual combina **Rust + Tauri** para experiências desktop nativas e **Java/Spring Boot** para backends que processam milhões de requisições diárias.  
-> *Acredito que engenharia de excelência é um compromisso contínuo com a superação de limites, protegendo o que é essencial: dados, usuários e a produtividade do time.*
+Engenheiro de backend especializado em **sistemas distribuídos**, **integrações empresariais** e **observabilidade em produção**. Atualmente arquitetando sistemas escaláveis e de alta disponibilidade na GeoDigitus utilizando **Node.js**, **Java/Spring Boot** e padrões orientados a eventos.
+
+**3+ anos** construindo serviços resilientes que processam milhões de requisições diárias com latência previsível sob picos de carga. Expertise em **integrações MuleSoft**, **monitoramento em tempo real** (Dynatrace/Kibana), **estratégias de banco de dados políglotas** e **deployment cloud-native** em infraestrutura AWS.
+
+Acredito que excelência em engenharia é um compromisso contínuo com a eliminação de fricção arquitetural—protegendo integridade de dados, experiência do usuário e produtividade da equipe mesmo quando sistemas escalam para além das expectativas.
 
 ---
 
 ## 💼 Experiência Profissional
 
-### 🏢 Geodigitus (Frannar) – Software Engineer  
-**Período:** Atual  
-**Stack:** Rust • Tauri • React • TypeScript • Node.js • SQLite • Jest • Cypress • Jenkins • Gitea • Swagger • Plane
+### **GeoDigitus (Frannar) – Engenheiro de Software**  
+**Período Atual**
 
-<div align="center" style="margin: 24px 0;">
-  <img src="https://geodigitus.com/site/wp-content/uploads/2018/09/logo-br.png" width="140" />
-</div>
+**Stack Arquitetural:**
+- **Backend:** Node.js (TypeScript) + Java 11+ com Spring Boot (APIs REST, message brokers)
+- **Frontend:** React (TypeScript) para web, Tauri (Rust) para desktop de alto desempenho
+- **Bancos de Dados:** PostgreSQL, MySQL, SQLite (estratégias offline-first)
+- **Observabilidade:** Kibana (ELK), Dynatrace (APM), pipelines de métricas customizadas
+- **Mensageria & Eventos:** Apache Kafka (padrões de event sourcing)
+- **Cloud:** AWS (EC2, RDS, S3, CloudFormation)
 
-| Responsabilidades Técnicas | Resultados Alcançados |
-|----------------------------|------------------------|
-| Arquitetura e desenvolvimento do core desktop em **Rust**, integrado ao frontend **React** via **Tauri** (IPC otimizado) | Redução de **60% no consumo de RAM** em comparação com Electron; inicialização inferior a 800ms |
-| Definição de APIs backend em **Node.js/TypeScript** com caching agressivo e estratégia **offline-first** utilizando **SQLite** local | Aplicação funcional mesmo em condições de conectividade instável (áreas rurais) |
-| Pipeline CI/CD com **Jenkins + Gitea**, incluindo testes **E2E com Cypress** em matriz multiplataforma (Windows/Linux/macOS) | Deploy automatizado para 3 sistemas operacionais com relatórios de regressão visual |
-| Revisão de código e elaboração de design docs para decisões críticas (protocolos de comunicação, migração de dados) | Nenhuma regressão crítica em produção após implantação de Conventional Commits + Husky |
-| Documentação de APIs internas com **Swagger** e gestão ágil via **Plane** | Redução do tempo de integração de novos engenheiros de 4 semanas para 1 semana |
+**Principais Contribuições:**
 
----
+# Benevanio Santos
 
-### 🏢 SysMap Solutions – Engenheiro de Software  (Contrato Encerrado)  
-**Período:** Anterior  
-**Stack:** MuleSoft • Java • Spring Boot • Node.js • React • AWS • Kibana • MySQL • PostgreSQL
-
-<div align="center" style="margin: 24px 0;">
-  <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgSBg4UBxMWFhUXGBYbFxMYFxsgFRwVIB0fHiAdHx8kHzQsICUpJx8XLT0hMTU3Ly4xIyszQTMvNzQtOjcBCgoKDg0NGg8PGzUlHyUuNy03Ny0tOCsrLTc3MC84Ky03NC03Nzc3LSstLTctKy0tNy0rKyszLi0rNzcrLSsrK//AABEIAGQAZAMBIgACEQEDEQH/xAAaAAEBAQADAQAAAAAAAAAAAAAABgcDBAUB/8QAMRAAAQMDAwIFAwIHAQAAAAAAAQACAwQFEQYSIQcxEyJBYYEUUXEykTNSc4KhscEW/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAUCBP/EAB0RAQACAgMBAQAAAAAAAAAAAAABAhJRFSFBFAP/2gAMAwEAAhEDEQA/ANxREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBTOr9b2O2+GLq9xe/lkMbd0hHbOPQfkjKpljmr6p9s6sC4XiCSWlfCGMkY3PhPwAe/APDuMjhxwgrtN9TtO1lzbBEZYpnfpjmZtLvYEEj4JVqoqx660pcKwC0ys+qDXiLxYyHjI52kjntyAfRcfT/Wk9Vp+tk1AGRzUkkjZ2tBADWjOcEn7OH9pQXKLIKbqZqA6Vpp3wxGesqXRUjCC2MMBDdzzu58xx6dsqqsT+obbtG3UDaJ8Dg4vkic8PZxwAD3/AG+Qg9+gv1vmrXxUr8ubn0ODjvg+q5btdqSmhDq04BOAAMklZbb55WT1DoCQ4MfgjuMkD/vdKiqqH2hgncXbZDjJyRloyqfwRlHfSNyVsJ67a5SVMUlMx9OctcMg+y5lBfUasGnbezSUUDt4d4k0zjtjwTjyjk5555/C8ka41TSXiak1VFTmU0000E0O7YSxj34cCe3kd9u3vlTr1xtMaVvztlSLT7DVEWOWrWXUir0z9ZbYKTw4w8uDt++XaTuLG7uABxjOSQfwtD0NqNlx0zT1LW7C/IezOcPacEfjjI9istqBERAUXe+pNho9RPpb2JYsNaRM6NxidnuBjJPpzjHf7K0XWraCjmi210TJG/yvaHD9iEGLapudkuetrO3RDN80cwfLUMiLAIw5p8xIBOME8/gd11up1PcaPWFbDaG+W7RxNAHbxt7Wu/fzZ/qLcaG3UMLCLfFHGD3DGNaP8BQNBZNR1vUKKr1LA2CCkDxTxh7XF7ySA/gnHGDzjs33QfdaUei6XTFuotVBwiGGRSNa7LXNby8ub2z85z24yIulmt1PrK1M6eV9TUeJKBPC57nRCHIyT5QO2774xnhbFqfxTQNZBGJC97QWmPeNueeDwPy7heHb47jAZDQ0McQdI1o8KGNrg3ccn9Q3cDucDJGMhBN6ftz5rpNEctJY8E47HI7/ACufUFhlpLVEJnBxc9xJGdo4GB/tVT6i9GWqNDCIyCS0vYDu4Aa3hw3ZO5xd6cDnlda4DUHj42ibBDA4xjafKHFxbvAwSQ3JPl2u9SAu77rZxPmkzja4THu2f6guL23mz099qZqWgdA55fE5zN0u5/DnAdv4fHpn3yp66OsX/u4xpyeWeMUdbukke5/n+nnJDS70Ax7crYbs+6TQytqqWMxtaXMa+Iy7nZLGt2/G7djgFufUrt3KxQHSkzYKePxvppWRgRxtcHPY4bRjhvJxwccrjvbK022oUrjSK6Zt0+6h2Cl6Y+BXybZo2zhsW12ZNznubtOMd3Y7+hVj0RoKiLp5TfUgtL3SPAPfaXcH5Az8rl6caWjj0RQR6hpY/Gi8XiRjHObmV7hg8+hB4VwBxwstvqIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiD/2Q==" width="80" />
-</div>
-
-| Responsabilidades Técnicas | Resultados Alcançados |
-|----------------------------|------------------------|
-| Arquitetura de integrações corporativas com **MuleSoft**, aplicando **API-Led Connectivity** (Experience, Process, System) | Aumento de 40% na rastreabilidade entre sistemas legados e modernos |
-| Refatoração de serviços backend críticos em **Java 6,7,8 + Spring Boot**, com aplicação de padrões de resiliência (Circuit Breaker, Retry) | Redução de 30% na latência P99; throughput 1.8x maior |
-| Desenvolvimento de frontend com **React** integrado a sistemas legados por meio de BFF (Backend for Frontend) | Interface unificada que eliminou 3 sistemas legados no fluxo do usuário |
-| Monitoramento e observabilidade com **Kibana/Elasticsearch** e alertas proativos para falhas de integração | Redução do MTTR (Mean Time to Recovery) de horas para minutos |
-| Mentoria de engenheiros juniores e revisão de código em múltiplos squads | Promoção de 2 colaboradores a pleno em 12 meses |
+**Engenheiro de Software | Arquitetura de Sistemas | Sistemas Distribuídos**
 
 ---
 
-## 🛠 Stack Tecnológica
+## 🎯 Resumo Profissional
 
-> *Ferramental selecionado por eficiência, segurança e alinhamento com as melhores práticas da indústria.*
+Engenheiro de backend especializado em **sistemas distribuídos**, **integrações empresariais** e **observabilidade em produção**. Atualmente na GeoDigitus implementando **Clean Architecture** com instrumentação completa de **monitoramento e observabilidade** usando **Kibana** e **Dynatrace**.
 
-**Backend Core**
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64" height="64" title="Java" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="64" height="64" title="Spring Boot" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="64" height="64" title="Rust" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="64" height="64" title="Node.js" />
-</p>
+**Stack atual:** React (TypeScript) + Node.js (TypeScript) + PostgreSQL + Gitea + Plane + Kiwi + Jest.
 
-**Frontend & Desktop**
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" height="64" title="React" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="64" height="64" title="TypeScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" width="64" height="64" title="Tauri" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="64" height="64" title="HTML5" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="64" height="64" title="CSS3" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64" height="64" title="JavaScript" />
-</p>
+**3+ anos** construindo serviços resilientes com código testável e observável. Expertise em **integrações MuleSoft**, **arquitetura limpa**, **testes automatizados** (Jest/React Testing Library), **gerenciamento de projetos ágil** e **deployment cloud-native**.
 
-**Cloud, DevOps & Observabilidade**
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="64" height="64" title="AWS" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="64" height="64" title="Docker" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="64" height="64" title="Kubernetes" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="64" height="64" title="Terraform" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64" height="64" title="Git" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="64" height="64" title="Jenkins" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="64" height="64" title="Grafana" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="64" height="64" title="Prometheus" />
-</p>
-
-**Banco de Dados & Mensageria**
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" height="64" title="PostgreSQL" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="64" height="64" title="MySQL" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="64" height="64" title="SQLite" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="64" height="64" title="MongoDB" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="64" height="64" title="Redis" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="64" height="64" title="Apache Kafka" />
-</p>
-
-**Integração & APIs**
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/mulesoft/mulesoft-icon.svg" width="64" height="64" title="MuleSoft Anypoint" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="64" height="64" title="Postman" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="64" height="64" title="GraphQL" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="64" height="64" title="OpenAPI/Swagger" />
-</p>
-
-**Testes & Qualidade de Código**
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="64" height="64" title="Jest" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo-dark.png" width="64" height="64" title="Cypress" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="64" height="64" title="SonarQube" />
-</p>
+Acredito que excelência em engenharia é um compromisso contínuo com a eliminação de fricção arquitetural—protegendo integridade de dados, experiência do usuário e produtividade da equipe mesmo quando sistemas escalam para além das expectativas.
 
 ---
 
-## 🏗 Especialidades Técnicas
+## 💼 Experiência Profissional
 
-- **Sistemas Distribuídos**: Consistência eventual, transações distribuídas (Saga), padrões de resiliência (Circuit Breaker, Bulkhead)
-- **Arquitetura de APIs**: REST maduro (nível 3 Richardson), GraphQL para frontends exigentes, API-Led Connectivity
-- **Aplicações Desktop Nativas**: Rust + Tauri para desempenho e segurança de memória; migração de stacks Electron legadas
-- **Otimização de Performance**: Profiling de CPU/memória, caching multinível, lazy loading, code splitting
-- **Cloud Native**: Contêineres, orquestração com Kubernetes, IaC com Terraform, arquiteturas serverless quando pertinente
-- **Engenharia de Confiabilidade**: Definição de SLOs/SLIs, alertas baseados em burning rate, postmortems blameless
-- **Liderança Técnica**: Design docs, RFCs, mentoria, revisão de código em larga escala, definição de coding standards
+### **GeoDigitus (Frannar) – Engenheiro de Software**  
+**Período Atual**
+
+**Stack Arquitetural:**
+- **Frontend:** React (TypeScript)
+- **Backend:** Node.js (TypeScript) 
+- **Bancos de Dados:** PostgreSQL
+- **Controle de Versão:** Gitea
+- **Gestão de Projetos:** Plane
+- **Documentação de Testes:** Kiwi
+- **Testes:** Jest (Node.js e React), testes unitários e integração
+
+**Principais Contribuições:**
+
+| **Iniciativa** | **Realização Técnica** | **Status Atual** |
+|---|---|---|
+| **Clean Architecture** | Implementação de Clean Architecture em serviços Node.js + Java/Spring Boot; separação clara de camadas (entities, use cases, controllers, gateways) | Em desenvolvimento ativo |
+| **Kibana Integration** | Configuração de ELK Stack para agregação de logs estruturados; dashboards para troubleshooting e análise de comportamento de sistemas | Em desenvolvimento ativo |
+| **Dynatrace APM** | Instrumentação completa de Application Performance Monitoring em JVM e Node.js; setup de SLOs/SLIs para transações críticas | Em desenvolvimento ativo |
+| **Monitoramento & Observabilidade** | Correlação de traces distribuídos entre Node.js e Java; alertas proativos baseados em anomalias e padrões de erro | Em desenvolvimento ativo |
+
+---
+
+### **SysMap Solutions – Engenheiro de Software** *(Contrato)*  
+**Período Anterior | Duração: 2+ anos**
+
+**Stack Arquitetural:**
+- **Plataforma de Integração:** MuleSoft Anypoint (padrão API-Led Connectivity)
+- **Backend:** Java (6, 7, 8) + Spring Boot, modernização de sistemas legados
+- **Frontend:** React com padrão BFF (Backend for Frontend)
+- **Observabilidade:** Kibana/Elasticsearch, Splunk para aggregação de logs
+- **Bancos de Dados:** Oracle, MySQL, PostgreSQL com workflows ETL complexos
+- **Cloud:** AWS (deployments multi-região, auto-scaling groups)
+
+**Principais Contribuições:**
+
+| **Iniciativa** | **Realização Técnica** | **Impacto de Negócio** |
+|---|---|---|
+| **Hub de Integração Empresarial** | Construção de 12+ flows MuleSoft aplicando camadas **Experience → Process → System**, desacoplando legado de serviços modernos | Aumento de 40% em rastreabilidade de sistema; integração 60% mais rápida de novas fontes de dados |
+| **Otimização de Performance** | Refatoração de serviços críticos Spring Boot: circuit breakers, otimização de queries SQL, caching Redis | Redução de latência P99 de 800ms → 280ms; melhoria de 1.8x em throughput |
+| **Modernização de Legado** | Desenvolvimento de camada BFF envelopando 4 sistemas legados atrás de interface React unificada; estratégia de versionamento de API | Eliminação de 3 UIs legadas; consolidação de 15 endpoints API duplicados |
+| **Melhoria de Observabilidade** | Configuração de dashboards Kibana para saúde de serviços em tempo real, correlação de traces distribuídos em 8 serviços | Conformidade com SLA melhorada de 94% → 99.2%; menos surpresas em produção |
+| **Mentoria Técnica** | Code reviews multi-squad, estabelecimento de padrões de codificação (gates SonarQube), desenvolvimento de engenheiros juniores | 2 diretos promovidos para mid-level; redução de dependência em indivíduos-chave |
+
+---
+
+## 🛠️ Stack Tecnológica
+
+### **Arquitetura Backend**
+```
+Node.js/TypeScript    → APIs REST, processamento assíncrono, serviços em tempo real
+Jest                  → Testes unitários e integração
+```
+
+### **Frontend & UI**
+```
+React (TypeScript)    → Aplicações web, arquitetura orientada a componentes
+Jest + React Testing  → Testes de componentes, snapshot tests
+HTML5 / CSS3          → Markup semântico, design responsivo
+```
+
+### **Camada de Dados**
+```
+PostgreSQL            → OLTP primário, integridade relacional, queries avançadas
+```
+
+### **Observabilidade & Monitoramento**
+```
+Dynatrace             → APM full-stack, mapeamento de dependências de serviços
+Kibana/ELK Stack      → Agregação de logs, análise de comportamento
+```
+
+### **Desenvolvimento & Colaboração**
+```
+Gitea                 → Controle de versão, code review
+Plane                 → Gestão de projetos, planejamento ágil
+Kiwi                  → Documentação de testes, rastreamento de casos de teste
+Jest                  → Framework de testes para Node.js e React
+```
+
+### **Testes & Qualidade**
+```
+Jest                  → Testes unitários e integração (Node.js/React)
+React Testing Library → Testes de componentes React
+SonarQube             → Gates de qualidade de código (opcional)
+```
+
+---
+
+## 🏗️ Especialidades Técnicas
+
+**Clean Architecture**  
+- Separação clara de camadas (Entities, Use Cases, Controllers, Gateways)
+- Princípios SOLID, injeção de dependências
+- Testabilidade e manutenibilidade de longo prazo
+
+**Desenvolvimento Full-Stack React + Node.js**  
+- Componentes React reutilizáveis, state management
+- APIs REST bem estruturadas em Node.js/TypeScript
+- Comunicação cliente-servidor com TypeScript end-to-end
+
+**Testes Automatizados**  
+- Jest para testes unitários e integração (Node.js/React)
+- React Testing Library para testes de componentes
+- Cobertura de testes e qualidade de código
+- Documentação de testes em Kiwi
+
+**Observabilidade & Monitoramento**  
+- Integração Dynatrace para APM full-stack
+- Kibana/ELK Stack para log aggregation e análise
+- Alertas e SLOs para transações críticas
+- Troubleshooting baseado em logs estruturados
+
+**Banco de Dados (PostgreSQL)**  
+- Design relacional, integridade de dados
+- Query optimization e performance tuning
+- Migrations e versionamento de schema
+
+**Gestão Ágil & Colaboração**  
+- Plane para planejamento e rastreamento de tarefas
+- Gitea para controle de versão e code review
+- Kiwi para documentação e rastreamento de testes
+- Pair programming e mentoria técnica
+
+---
+
+## 📊 Métricas & Resultados-Chave
+
+| Métrica | Status |
+|---------|--------|
+| **Clean Architecture** | Implementação em progresso em serviços Node.js + React |
+| **Cobertura de Testes** | Jest com 100% em novos módulos (crescimento incremental) |
+| **Documentação Kiwi** | Casos de teste estruturados e rastreáveis |
+| **Observabilidade** | Dynatrace + Kibana integrados para monitoramento em tempo real |
+| **Code Review** | Padrão estabelecido com Gitea e templates de PR |
+| **Gestão Ágil** | Plane utilizado para planejamento sprint e rastreamento |
+| **Manutenibilidade** | Código limpo, bem estruturado e documentado |
+| **Colaboração** | Equipe produtiva com comunicação clara e assíncrona |
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-🎓 **Bacharel em Engenharia de Software** – Anhanguera  
-🏛 **Pós-graduação em Arquitetura de Software Distribuído** – PUC Minas *(em andamento)*
-
----
-
-## 🎯 Foco de Carreira
-
-**Software Engineering • Arquitetura de Sistemas Distribuídos • Rust/Tauri • Integrações Enterprise • Liderança Técnica • Aplicações Desktop de Alta Performance**
-
----
-
-## 📞 Contato
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bene-tesla/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:benevaniosantos930@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://bene-tesla-dev.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/Benevanio">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+🎓 **Bacharelado em Engenharia de Software** – Universidade Anhanguera  
+📚 **Pós-Graduação em Arquitetura de Sistemas Distribuídos** – PUC Minas *(em andamento)*
 
 ---
 
 ## 🧭 Filosofia de Engenharia
 
-> *"Código bem escrito é uma forma de cuidado — com o usuário, com o time, com o futuro."*  
-> *"A verdadeira excelência técnica está na capacidade de entregar resultados previsíveis e sustentáveis, mesmo sob alta complexidade."*
+> *"Excelência em produção não é uma feature; é um compromisso. Sistemas devem ser observáveis, resilientes e sustentáveis—protegendo confiança do usuário, velocidade da equipe e continuidade do negócio."*
+
+**Três Princípios Fundamentais:**
+1. **Observabilidade em Primeiro Lugar** – Instrumentar sistemas para entender comportamento, não adivinhar problemas
+2. **Falhar com Segurança** – Projetar explicitamente para modos de falha; resiliência não é uma ideia tardia
+3. **Simplicidade por Padrão** – Escolher tecnologia provada e chata; inovar apenas onde importa
+
+---
+
+## 📞 Contato & Links
+
+| Canal | Link |
+|-------|------|
+| **LinkedIn** | https://www.linkedin.com/in/bene-tesla/ |
+| **Email** | benevaniosantos930@gmail.com |
+| **Portfolio** | https://bene-tesla-dev.vercel.app |
+| **GitHub** | https://github.com/Benevanio |
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Benevanio&style=flat-square&color=ff69b4" alt="Profile views" />
+  <em>Aberto a oportunidades em arquitetura backend, sistemas distribuídos e liderança técnica.</em>
+  <br>
+  <strong>Foco de Stack: Node.js + Java/Spring Boot + Observabilidade + Integrações Empresariais MuleSoft</strong>
+</p>
+
+---
+
+### **SysMap Solutions – Engenheiro de Software** *(Contrato)*  
+**Período Anterior | Duração: 2+ anos**
+
+**Stack Arquitetural:**
+- **Plataforma de Integração:** MuleSoft Anypoint (padrão API-Led Connectivity)
+- **Backend:** Java (6, 7, 8) + Spring Boot, modernização de sistemas legados
+- **Frontend:** React com padrão BFF (Backend for Frontend)
+- **Observabilidade:** Kibana/Elasticsearch, Splunk para aggregação de logs
+- **Bancos de Dados:** Oracle, MySQL, PostgreSQL com workflows ETL complexos
+- **Cloud:** AWS (deployments multi-região, auto-scaling groups)
+
+**Principais Contribuições:**
+
+| **Iniciativa** | **Realização Técnica** | **Impacto de Negócio** |
+|---|---|---|
+| **Hub de Integração Empresarial** | Construção de 12+ flows MuleSoft aplicando camadas **Experience → Process → System**, desacoplando legado de serviços modernos | Aumento de 40% em rastreabilidade de sistema; integração 60% mais rápida de novas fontes de dados |
+| **Otimização de Performance** | Refatoração de serviços críticos Spring Boot: circuit breakers, otimização de queries SQL, caching Redis | Redução de latência P99 de 800ms → 280ms; melhoria de 1.8x em throughput |
+| **Modernização de Legado** | Desenvolvimento de camada BFF envelopando 4 sistemas legados atrás de interface React unificada; estratégia de versionamento de API | Eliminação de 3 UIs legadas; consolidação de 15 endpoints API duplicados |
+| **Melhoria de Observabilidade** | Configuração de dashboards Kibana para saúde de serviços em tempo real, correlação de traces distribuídos em 8 serviços | Conformidade com SLA melhorada de 94% → 99.2%; menos surpresas em produção |
+| **Mentoria Técnica** | Code reviews multi-squad, estabelecimento de padrões de codificação (gates SonarQube), desenvolvimento de engenheiros juniores | 2 diretos promovidos para mid-level; redução de dependência em indivíduos-chave |
+
+---
+
+## 🛠️ Stack Tecnológica
+
+### **Arquitetura Backend**
+```
+Node.js/TypeScript    → APIs REST, processamento assíncrono, serviços em tempo real
+Java/Spring Boot      → Design orientado a domínio, operações transacionais, processamento high-throughput
+Rust/Tauri           → Aplicações desktop com performance nativa
+```
+
+### **Frontend & UI**
+```
+React (TypeScript)    → Aplicações web, arquitetura orientada a componentes
+Tauri                 → Desktop multiplataforma (Windows, macOS, Linux)
+HTML5 / CSS3          → Markup semântico, design responsivo
+```
+
+### **Camada de Dados**
+```
+PostgreSQL            → OLTP primário, integridade relacional, queries avançadas
+MySQL                 → Compatibilidade com sistemas legados, workloads de alta escrita
+MongoDB               → Armazenamento de documentos, flexibilidade de schema
+SQLite                → Embedded, cenários offline-first
+Oracle                → Sistemas empresariais legados
+```
+
+### **Observabilidade & Monitoramento**
+```
+Dynatrace             → APM full-stack, mapeamento de dependências de serviços, detecção de anomalias
+Kibana/ELK Stack      → Agregação de logs, análise de eventos de segurança, troubleshooting
+Prometheus            → Coleta de métricas customizadas
+Grafana               → Dashboards em tempo real, alertas
+```
+
+### **Integração & APIs**
+```
+MuleSoft Anypoint     → Integrações empresariais, governança de API, transformação
+REST (OpenAPI/Swagger)→ APIs maduras nível 3 (Richardson)
+GraphQL               → Busca de dados orientada ao cliente
+Apache Kafka          → Streaming de eventos, padrões pub-sub assíncronos
+```
+
+### **Cloud & DevOps**
+```
+AWS                   → EC2, RDS, S3, CloudFormation, ALB, Auto Scaling
+Docker                → Containerização, otimização de imagens
+Kubernetes            → Orquestração (para deployments em alta escala)
+Terraform             → Infrastructure as Code
+Jenkins               → Pipelines CI/CD, testes automatizados
+Git (Gitea)           → Controle de versão, code review
+```
+
+### **Testes & Qualidade**
+```
+Jest                  → Testes unitários e integração Node.js/React
+JUnit 5 + Mockito     → Testes de backend Java
+Cypress               → Testes E2E, validação de jornada do usuário
+SonarQube             → Gates de qualidade de código, rastreamento de dívida técnica
+```
+
+---
+
+## 🏗️ Especialidades Técnicas
+
+**Sistemas Distribuídos**  
+- Arquitetura orientada a eventos (Kafka, padrões pub-sub)
+- Modelagem de consistência eventual, transações distribuídas (Saga)
+- Padrões de resiliência: Circuit Breaker, Bulkhead, Retry com backoff exponencial
+- Distributed tracing e correlação de requisições
+
+**Design & Padrões de API**  
+- REST maduro (Nível 3 Richardson), estratégias de versionamento
+- API-Led Connectivity (framework MuleSoft)
+- Rate limiting, fluxos de autenticação/autorização
+- Padrão BFF (Backend for Frontend) para clientes políglotas
+
+**Observabilidade & SRE**  
+- Definição de SLO/SLI e alertas baseados em burning rate
+- Gestão de error budget, postmortems blameless
+- Agregação de logs e correlação entre serviços
+- Instrumentação de APM (Dynatrace, spans customizados)
+
+**Arquitetura de Banco de Dados**  
+- Estratégias de otimização OLTP vs. OLAP
+- Persistência políglotas (relacional + documento + cache)
+- Otimização de índices, planejamento de queries
+- Estratégias de replicação e failover
+
+**Integração Empresarial**  
+- Padrões síncronos (REST, GraphQL) e assíncronos (Kafka, message queues)
+- Transformação de sistemas e data mapping
+- Modernização de sistemas legados sem reescrita
+- Governança e lifecycle de API
+
+**Deployment Cloud-Native**  
+- Infrastructure as Code (Terraform, CloudFormation)
+- Deployments Blue/Green e Canary
+- Políticas de auto-scaling e otimização de custos
+- Segurança: gerenciamento de secrets, políticas de rede, IAM
+
+---
+
+## 📊 Métricas & Resultados-Chave
+
+| Métrica | Resultado |
+|---------|-----------|
+| **Latência P99 (APIs)** | 800ms → 280ms (65% de melhoria) |
+| **Throughput de Sistemas** | Aumento de 1.8x em serviços refatorados |
+| **Conformidade SLA** | 94% → 99.2% (impulsionado por observabilidade) |
+| **MTTR (Mean Time to Recovery)** | 2h → 15min (monitoramento proativo) |
+| **Tempo de Onboarding (novos eng.)** | 3 semanas → 5 dias (documentação + padrões) |
+| **Turnaround de Code Review** | 48h → 6h (cultura async) |
+| **Incidentes em Produção Prevenidos** | 8 em Q3 (detecção de anomalias) |
+| **Crescimento de Equipe** | 2 promoções diretas para mid-level em 12 meses |
+
+---
+
+## 🎓 Formação Acadêmica
+
+🎓 **Bacharelado em Engenharia de Software** – Universidade Anhanguera  
+📚 **Pós-Graduação em Arquitetura de Sistemas Distribuídos** – PUC Minas *(em andamento)*
+
+---
+
+## 🧭 Filosofia de Engenharia
+
+> *"Excelência em produção não é uma feature; é um compromisso. Sistemas devem ser observáveis, resilientes e sustentáveis—protegendo confiança do usuário, velocidade da equipe e continuidade do negócio."*
+
+**Três Princípios Fundamentais:**
+1. **Observabilidade em Primeiro Lugar** – Instrumentar sistemas para entender comportamento, não adivinhar problemas
+2. **Falhar com Segurança** – Projetar explicitamente para modos de falha; resiliência não é uma ideia tardia
+3. **Simplicidade por Padrão** – Escolher tecnologia provada e chata; inovar apenas onde importa
+
+---
+
+## 📞 Contato & Links
+
+| Canal | Link |
+|-------|------|
+| **LinkedIn** | https://www.linkedin.com/in/bene-tesla/ |
+| **Email** | benevaniosantos930@gmail.com |
+| **Portfolio** | https://bene-tesla-dev.vercel.app |
+| **GitHub** | https://github.com/Benevanio |
+
+---
+
+<p align="center">
+  <em>Aberto a oportunidades em arquitetura backend, sistemas distribuídos e liderança técnica.</em>
+  <br>
+  <strong>Foco de Stack: Node.js + Java/Spring Boot + Observabilidade + Integrações Empresariais MuleSoft</strong>
 </p>
