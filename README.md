@@ -20,12 +20,10 @@ Acredito que excelência em engenharia é um compromisso contínuo com a elimina
 **Período Atual**
 
 **Stack Arquitetural:**
-- **Backend:** Node.js (TypeScript) + Java 11+ com Spring Boot (APIs REST, message brokers)
+- **Backend:** Node.js (TypeScript) 
 - **Frontend:** React (TypeScript) para web, Tauri (Rust) para desktop de alto desempenho
-- **Bancos de Dados:** PostgreSQL, MySQL, SQLite (estratégias offline-first)
+- **Bancos de Dados:** PostgreSQL
 - **Observabilidade:** Kibana (ELK), Dynatrace (APM), pipelines de métricas customizadas
-- **Mensageria & Eventos:** Apache Kafka (padrões de event sourcing)
-- **Cloud:** AWS (EC2, RDS, S3, CloudFormation)
 
 **Principais Contribuições:**
 
