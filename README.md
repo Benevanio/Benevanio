@@ -64,7 +64,7 @@
 | Responsabilidades Técnicas | Resultados Alcançados |
 |----------------------------|------------------------|
 | Arquitetura de integrações corporativas com **MuleSoft**, aplicando **API-Led Connectivity** (Experience, Process, System) | Aumento de 40% na rastreabilidade entre sistemas legados e modernos |
-| Refatoração de serviços backend críticos em **Java 17 + Spring Boot**, com aplicação de padrões de resiliência (Circuit Breaker, Retry) | Redução de 30% na latência P99; throughput 1.8x maior |
+| Refatoração de serviços backend críticos em **Java 6,7,8 + Spring Boot**, com aplicação de padrões de resiliência (Circuit Breaker, Retry) | Redução de 30% na latência P99; throughput 1.8x maior |
 | Desenvolvimento de frontend com **React** integrado a sistemas legados por meio de BFF (Backend for Frontend) | Interface unificada que eliminou 3 sistemas legados no fluxo do usuário |
 | Monitoramento e observabilidade com **Kibana/Elasticsearch** e alertas proativos para falhas de integração | Redução do MTTR (Mean Time to Recovery) de horas para minutos |
 | Mentoria de engenheiros juniores e revisão de código em múltiplos squads | Promoção de 2 colaboradores a pleno em 12 meses |
