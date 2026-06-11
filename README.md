@@ -25,7 +25,7 @@ Acredito que excelência em engenharia é um compromisso contínuo com a elimina
 - **Bancos de Dados:** PostgreSQL
 - **Observabilidade:** Kibana (ELK), Dynatrace (APM), pipelines de métricas customizadas
 
-**Principais Contribuições:**
+
 
 # Benevanio Santos
 
