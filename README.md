@@ -1,171 +1,121 @@
 # 👨‍💻 Benevanio Santos
 
-**Software Engineer | Backend Specialist | Distributed Systems | Enterprise Integrations**
+**Engenheiro de Software | Especialista Backend | Sistemas Distribuídos | Integrações Corporativas**
 
 ---
 
-## 🚀 Sobre Mim
+## 📌 Resumo Profissional
 
-Engenheiro de Software com experiência em desenvolvimento backend, integrações corporativas, arquitetura de sistemas distribuídos e observabilidade.
+Engenheiro de Software com atuação focada em arquitetura backend, integrações empresariais de larga escala e observabilidade. Minha trajetória combina forte base em **Java**, **Spring Boot**, **Node.js**, **MuleSoft** e ambientes cloud, com entregas de alto impacto para clientes como **Natura** e **Avon**.
 
-Atualmente atuo na **GeoDigitus**, trabalhando com aplicações React e Node.js, aplicando princípios de **Clean Architecture**, testes automatizados e observabilidade utilizando **Dynatrace** e **Kibana**.
+Além do desenvolvimento, possuo vivência em plataformas de gestão de serviços de TI (**ServiceNow**), o que amplia minha capacidade de atuar na integração entre tecnologia e processos de negócio. Sou movido por sistemas confiáveis, código limpo e times que crescem com qualidade.
 
-Possuo experiência em projetos corporativos utilizando **Java**, **Spring Boot**, **MuleSoft**, **React**, **Node.js**, **PostgreSQL**, **Oracle** e ambientes cloud.
+Atualmente, na **GeoDigitus**, aplico **Clean Architecture** e observabilidade com **Dynatrace** e **Kibana** em soluções React/Node.js, garantindo performance, rastreabilidade e uma excelente experiência para os usuários.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnológica
 
-### Backend
+### Back-end
+- **Node.js + TypeScript** – APIs REST, microsserviços e processamento assíncrono
+- **Java + Spring Boot** – Sistemas corporativos e integrações de missão crítica
+- **MuleSoft** – API-Led Connectivity e orquestração de ecossistemas
 
-```text
-Node.js + TypeScript   → APIs REST, microsserviços e processamento assíncrono
-Java + Spring Boot     → Sistemas corporativos e integrações empresariais
-MuleSoft               → API-Led Connectivity e integrações corporativas
-```
+### Front-end
+- **React + TypeScript** – Aplicações modernas, componentizadas e responsivas
+- **HTML5 / CSS3** – Interfaces adaptáveis e focadas no usuário
 
-### Frontend
+### Bancos de Dados
+- **PostgreSQL** – Modelagem, otimização de consultas e tunning
+- **Oracle SQL** – PL/SQL, procedures, triggers e ambientes legados
+- **MongoDB** – Persistência NoSQL orientada a documentos
 
-```text
-React + TypeScript     → Aplicações web modernas e componentes reutilizáveis
-HTML5 / CSS3           → Interfaces responsivas
-```
+### Testes e Qualidade de Código
+- **Jest + React Testing Library** – Testes unitários e de integração no front-end
+- **JUnit** – Testes automatizados em Java
+- **JMeter** – Testes de carga e desempenho
+- **SonarQube** – Análise estática e indicadores de qualidade
 
-### Banco de Dados
+### Observabilidade e Monitoramento
+- **Dynatrace** – APM, monitoração full-stack e análise de performance
+- **Kibana / ELK Stack** – Consolidação de logs e troubleshooting
+- **Splunk** – Observabilidade em ambientes corporativos complexos
 
-```text
-PostgreSQL             → Banco relacional, performance tuning e modelagem
-Oracle SQL             → PL/SQL, procedures, triggers e sistemas corporativos
-MongoDB                → Banco NoSQL orientado a documentos
-```
-
-### Testes e Qualidade
-
-```text
-Jest + React Testing Library → Testes unitários, integração e componentes
-JUnit                       → Testes unitários e integração em Java
-JMeter                      → Testes de carga e performance
-SonarQube                   → Qualidade e análise estática de código
-```
-
-### Observabilidade
-
-```text
-Dynatrace             → APM e monitoramento full-stack
-Kibana / ELK Stack    → Logs centralizados e troubleshooting
-Splunk                → Observabilidade corporativa
-```
-
-### DevOps & Ferramentas
-
-```text
-Git / Gitea           → Controle de versão e code review
-Docker                → Containerização
-AWS                   → Cloud Computing
-Plane                 → Gestão ágil de projetos
-Kiwi                  → Gestão e documentação de testes
-```
+### DevOps, Cloud e Ferramentas
+- **Git / Gitea** – Versionamento e code review
+- **Docker** – Containerização de aplicações
+- **AWS** – Serviços de nuvem e infraestrutura escalável
+- **ServiceNow** – Gestão de serviços de TI e integrações ITSM
+- **Plane / Kiwi** – Gestão ágil e documentação de testes
 
 ---
 
 ## 💼 Experiência Profissional
 
-### GeoDigitus (Atual)
+### **GeoDigitus** – *Atual*
+**Engenheiro de Software**
 
-**Software Engineer**
+Atuação no desenvolvimento e sustentação de aplicações web com React e Node.js, utilizando princípios de Clean Architecture e cobertura de testes. Responsável pela estratégia de observabilidade com Dynatrace e Kibana, permitindo uma visão clara do comportamento dos sistemas em produção.
 
-#### Principais atividades
-
-* Implementação de Clean Architecture em aplicações Node.js
-* Desenvolvimento React + TypeScript
-* Estruturação de testes automatizados
-* Implantação de observabilidade com Dynatrace
-* Criação de dashboards e monitoramento utilizando Kibana
-* Correlação de logs e rastreamento de erros em produção
+**Principais Entregas:**
+- Implantação de testes automatizados que elevaram a confiabilidade das entregas
+- Evolução da arquitetura do back-end para suportar alta disponibilidade e rastreabilidade
 
 ---
 
-### SysMap Solutions (2+ anos)
+### **SysMap Solutions** – *2+ anos*
+**Engenheiro de Software**
 
-**Software Engineer**
+Atuação em projetos de transformação digital para grandes contas, com destaque para **Natura** e **Avon**. Nesses projetos, apliquei de ponta a ponta a stack de tecnologias que domino, desde a integração de sistemas legados até a construção de novas APIs e front-ends.
 
-Atuação em projetos corporativos para grandes clientes utilizando MuleSoft, Java e AWS.
+**Destaques:**
+- Desenvolvimento de **mais de 25 integrações** utilizando MuleSoft, conectando ERPs, CRMs e sistemas satélites
+- Criação de APIs REST robustas com Java/Spring Boot, modernizando arquiteturas monolíticas
+- Atuação no front-end com React para portais e dashboards internos dos clientes
+- Emprego de **ServiceNow** para integração com fluxos de ITSM, garantindo governança e automação de processos
+- Implementação de observabilidade com Kibana e Splunk, permitindo visibilidade total das transações entre sistemas
+- Trabalho próximo a times multidisciplinares, realizando mentoria técnica e revisão de código
+- Ambientes Oracle e PostgreSQL com modelagem otimizada para os cenários de negócio
 
-#### Destaques
-
-* Construção de mais de 12 integrações MuleSoft
-* Desenvolvimento de APIs REST com Java/Spring Boot
-* Modernização de sistemas legados
-* Implementação de observabilidade com Kibana e Splunk
-* Integrações entre Oracle, PostgreSQL e sistemas corporativos
-* Mentoria técnica e revisão de código
+Essa experiência me proporcionou uma visão completa do ciclo de vida de software corporativo — da integração ao front-end, passando por cloud e qualidade.
 
 ---
 
 ## 🏗️ Especialidades
 
-### Arquitetura de Software
-
-* Clean Architecture
-* SOLID
-* Domain-Driven Design (DDD)
-* API Design
-* Microsserviços
-
-### Integrações Corporativas
-
-* MuleSoft
-* REST APIs
-* ETL
-* Sistemas Legados
-
-### Observabilidade
-
-* Dynatrace
-* Kibana
-* ELK Stack
-* Monitoramento de aplicações
-* Troubleshooting em produção
-
-### Banco de Dados
-
-* PostgreSQL
-* Oracle
-* MongoDB
-* Modelagem relacional
-* Otimização de consultas
+- **Arquitetura de Software:** Clean Architecture, SOLID, Domain-Driven Design (DDD), APIs, Microsserviços
+- **Integrações Corporativas:** MuleSoft, REST, ETL, modernização de sistemas legados, ServiceNow
+- **Observabilidade:** Dynatrace, Kibana, ELK, Splunk, monitoramento proativo e resposta a incidentes
+- **Bancos de Dados:** Modelagem relacional, otimização de performance, PL/SQL
+- **Qualidade e Testes:** Automação de testes, análise estática, testes de carga
 
 ---
 
-## 🎓 Formação
+## 🎓 Formação Acadêmica
 
-🎓 **Bacharelado em Engenharia de Software**
-Universidade Anhanguera
-
-🎓 **Pós-graduação em Arquitetura de Sistemas Distribuídos** *(em andamento)*
-PUC Minas
+- **Bacharelado em Engenharia de Software** – Universidade Anhanguera
+- **Pós-graduação em Arquitetura de Sistemas Distribuídos** – PUC Minas *(em andamento)*
 
 ---
 
-## 📈 Áreas de Interesse
+## 📈 Interesses Profissionais
 
-* Arquitetura Backend
-* Sistemas Distribuídos
-* Integrações Empresariais
-* Observabilidade
-* Cloud Computing
-* Liderança Técnica
+- Arquitetura de sistemas distribuídos
+- Integrações empresariais de alta complexidade
+- Observabilidade e cultura DevOps
+- Cloud computing (AWS)
+- Liderança técnica e desenvolvimento de pessoas
 
 ---
 
 ## 📫 Contato
 
-| Canal     | Link                                                                |
-| --------- | ------------------------------------------------------------------- |
-| LinkedIn  | https://www.linkedin.com/in/bene-tesla                              |
-| GitHub    | https://github.com/Benevanio                                        |
-| Portfólio | https://bene-tesla-dev.vercel.app                                   |
-| E-mail    | [benevaniosantos930@gmail.com](mailto:benevaniosantos930@gmail.com) |
+| Canal       | Link                                                                |
+|-------------|---------------------------------------------------------------------|
+| LinkedIn    | [linkedin.com/in/bene-tesla](https://www.linkedin.com/in/bene-tesla) |
+| GitHub      | [github.com/Benevanio](https://github.com/Benevanio)                |
+| Portfólio   | [bene-tesla-dev.vercel.app](https://bene-tesla-dev.vercel.app)      |
+| E-mail      | [benevaniosantos930@gmail.com](mailto:benevaniosantos930@gmail.com) |
 
 ---
 
