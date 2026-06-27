@@ -1,122 +1,191 @@
-# 👨‍💻 Benevanio Santos
+<div align="center">
 
-**Engenheiro de Software | Especialista Backend | Sistemas Distribuídos | Integrações Corporativas**
+# Benevanio Santos
+
+### Engenheiro de Software · Backend · Arquitetura · Integrações Corporativas
+
+<br/>
+
+<a href="https://www.linkedin.com/in/bene-tesla">
+  <img alt="Linkedin" height="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg">
+</a>
+&nbsp;
+<a href="https://github.com/Benevanio">
+  <img alt="Github" height="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Github.svg">
+</a>
+&nbsp;
+<a href="mailto:benevaniosantos930@gmail.com">
+  <img alt="Gmail" height="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gmail.svg">
+</a>
+
+</div>
 
 ---
 
-## 📌 Resumo Profissional
+## 👨‍💻 Sobre mim
 
-Engenheiro de Software com atuação focada em arquitetura backend, integrações empresariais de larga escala e observabilidade. Minha trajetória combina forte base em **Java**, **Spring Boot**, **Node.js**, **MuleSoft** e ambientes cloud, com entregas de alto impacto para clientes como **Natura** e **Avon**.
+Engenheiro de Software com foco em **arquitetura backend**, **integrações empresariais de larga escala** e **observabilidade**. Entrego sistemas confiáveis com Java, Spring Boot, Node.js e MuleSoft — com rastreabilidade real em produção usando Dynatrace, Kibana e Splunk.
 
-Além do desenvolvimento, possuo vivência em plataformas de gestão de serviços de TI (**ServiceNow**), o que amplia minha capacidade de atuar na integração entre tecnologia e processos de negócio. Sou movido por sistemas confiáveis, código limpo e times que crescem com qualidade.
+Na **SysMap Solutions**, desenvolvi mais de **25 integrações MuleSoft** para Natura e Avon, conectando ERPs, CRMs e sistemas satélites em ecossistemas de missão crítica. Atualmente na **GeoDigitus**, evoluo arquiteturas backend com Clean Architecture e lido com performance em produção no dia a dia.
 
-Atualmente, na **GeoDigitus**, aplico **Clean Architecture** e observabilidade com **Dynatrace** e **Kibana** em soluções React/Node.js, garantindo performance, rastreabilidade e uma excelente experiência para os usuários.
+> *"Sistemas confiáveis são construídos com arquitetura simples, observabilidade eficiente e foco contínuo na experiência do usuário e da equipe."*
+
+---
+
+## 🚀 Em números
+
+| 25+ integrações MuleSoft | 2+ anos em projetos enterprise | Natura · Avon |
+|:---:|:---:|:---:|
+| entregues em produção | para grandes contas | principais clientes atendidos |
 
 ---
 
 ## 🛠️ Stack Tecnológica
 
 ### Back-end
-- **Node.js + TypeScript** – APIs REST, microsserviços e processamento assíncrono
-- **Java + Spring Boot** – Sistemas corporativos e integrações de missão crítica
-- **MuleSoft** – API-Led Connectivity e orquestração de ecossistemas
+
+<div align="left">
+  <img alt="NodeJS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg">
+  &nbsp;
+  <img alt="TypeScript" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg">
+  &nbsp;
+  <img alt="Java" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg">
+  &nbsp;
+  <img alt="Spring Boot" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Spring.svg">
+  &nbsp;
+  <img alt="ExpressJS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ExpressJS.svg">
+</div>
+
+`Node.js + TypeScript` · `Java + Spring Boot` · `REST` · `Microsserviços` · `Clean Architecture` · `DDD` · `SOLID`
+
+---
+
+### Integrações Corporativas
+
+<div align="left">
+  <img alt="MuleSoft" height="40" width="40" src="https://raw.githubusercontent.com/Benevanio/Benevanio/main/icons/MuleSoft_Dark.svg">
+  &nbsp;
+  <img alt="ServiceNow" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Microsoft.svg">
+</div>
+
+`MuleSoft (API-Led Connectivity)` · `Orquestração de APIs` · `ETL` · `ServiceNow (ITSM)` · `Modernização de legados`
+
+---
 
 ### Front-end
-- **React + TypeScript** – Aplicações modernas, componentizadas e responsivas
-- **HTML5 / CSS3** – Interfaces adaptáveis e focadas no usuário
+
+<div align="left">
+  <img alt="React" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg">
+  &nbsp;
+  <img alt="TypeScript" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg">
+  &nbsp;
+  <img alt="HTML" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg">
+  &nbsp;
+  <img alt="CSS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg">
+</div>
+
+`React + TypeScript` · `HTML5 / CSS3`
+
+---
 
 ### Bancos de Dados
-- **PostgreSQL** – Modelagem, otimização de consultas e tunning
-- **Oracle SQL** – PL/SQL, procedures, triggers e ambientes legados
-- **MongoDB** – Persistência NoSQL orientada a documentos
 
-### Testes e Qualidade de Código
-- **Jest + React Testing Library** – Testes unitários e de integração no front-end
-- **JUnit** – Testes automatizados em Java
-- **JMeter** – Testes de carga e desempenho
-- **SonarQube** – Análise estática e indicadores de qualidade
+<div align="left">
+  <img alt="PostgreSQL" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg">
+  &nbsp;
+  <img alt="Oracle" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Oracle.svg">
+  &nbsp;
+  <img alt="MongoDB" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MongoDB.svg">
+</div>
 
-### Observabilidade e Monitoramento
-- **Dynatrace** – APM, monitoração full-stack e análise de performance
-- **Kibana / ELK Stack** – Consolidação de logs e troubleshooting
-- **Splunk** – Observabilidade em ambientes corporativos complexos
-
-### DevOps, Cloud e Ferramentas
-- **Git / Gitea** – Versionamento e code review
-- **Docker** – Containerização de aplicações
-- **AWS** – Serviços de nuvem e infraestrutura escalável
-- **ServiceNow** – Gestão de serviços de TI e integrações ITSM
-- **Plane / Kiwi** – Gestão ágil e documentação de testes
+`PostgreSQL` · `Oracle SQL / PL/SQL` · `MongoDB`
 
 ---
 
-## 💼 Experiência Profissional
+### Observabilidade
 
-### **GeoDigitus** – *Atual*
+<div align="left">
+  <img alt="Kibana" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Kibana.svg">
+  &nbsp;
+  <img alt="Elastic Search" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Elastic%20Search.svg">
+  &nbsp;
+  <img alt="Logstash" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Logstash.svg">
+</div>
+
+`Dynatrace (APM)` · `Kibana / ELK Stack` · `Splunk` · `Monitoramento proativo` · `Resposta a incidentes`
+
+---
+
+### Cloud & DevOps
+
+<div align="left">
+  <img alt="AWS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/AWS.svg">
+  &nbsp;
+  <img alt="Docker" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg">
+  &nbsp;
+  <img alt="GIT" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg">
+</div>
+
+`AWS` · `Docker` · `Git / Gitea`
+
+---
+
+### Qualidade & Testes
+
+<div align="left">
+  <img alt="Jest" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Jest.svg">
+  &nbsp;
+  <img alt="SonarQube" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Sonarqube.svg">
+  &nbsp;
+  <img alt="Postman" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postman.svg">
+</div>
+
+`Jest` · `React Testing Library` · `JUnit` · `JMeter` · `SonarQube`
+
+---
+
+## 💼 Experiência
+
+### GeoDigitus · *atual*
 **Engenheiro de Software**
 
-Atuação no desenvolvimento e sustentação de aplicações web com React e Node.js, utilizando princípios de Clean Architecture e cobertura de testes. Responsável pela estratégia de observabilidade com Dynatrace e Kibana, permitindo uma visão clara do comportamento dos sistemas em produção.
+Desenvolvimento e sustentação de aplicações web com React e Node.js, aplicando Clean Architecture e estratégia completa de observabilidade.
 
-**Principais Entregas:**
-- Implantação de testes automatizados que elevaram a confiabilidade das entregas
-- Evolução da arquitetura do back-end para suportar alta disponibilidade e rastreabilidade
+- ✅ Clean Architecture aplicada em APIs Node.js em produção
+- ✅ Observabilidade full-stack com Dynatrace e Kibana
+- ✅ Implantação de testes automatizados elevando a confiabilidade das entregas
 
 ---
 
-### **SysMap Solutions** – *2+ anos*
+### SysMap Solutions · *2+ anos* — Natura & Avon
 **Engenheiro de Software**
 
-Atuação em projetos de transformação digital para grandes contas, com destaque para **Natura** e **Avon**. Nesses projetos, apliquei de ponta a ponta a stack de tecnologias que domino, desde a integração de sistemas legados até a construção de novas APIs e front-ends.
+Projetos de transformação digital para grandes contas. Atuação de ponta a ponta: da integração de sistemas legados a front-ends e APIs modernas.
 
-**Destaques:**
-- Desenvolvimento de **mais de 25 integrações** utilizando MuleSoft, conectando ERPs, CRMs e sistemas satélites
-- Criação de APIs REST robustas com Java/Spring Boot, modernizando arquiteturas monolíticas
-- Atuação no front-end com React para portais e dashboards internos dos clientes
-- Emprego de **ServiceNow** para integração com fluxos de ITSM, garantindo governança e automação de processos
-- Implementação de observabilidade com Kibana e Splunk, permitindo visibilidade total das transações entre sistemas
-- Trabalho próximo a times multidisciplinares, realizando mentoria técnica e revisão de código
-- Ambientes Oracle e PostgreSQL com modelagem otimizada para os cenários de negócio
-
-Essa experiência me proporcionou uma visão completa do ciclo de vida de software corporativo — da integração ao front-end, passando por cloud e qualidade.
+- 🔗 **25+ integrações MuleSoft** conectando ERPs, CRMs e sistemas satélites
+- 🚀 APIs REST com **Java/Spring Boot** modernizando arquiteturas monolíticas
+- 👁️ Observabilidade com **Kibana e Splunk** em ecossistemas corporativos complexos
+- ⚙️ Integração com **ServiceNow** para automação de fluxos ITSM
+- 🤝 Mentoria técnica e code review em times multidisciplinares
 
 ---
 
-## 🏗️ Especialidades
+## 🎓 Formação
 
-- **Arquitetura de Software:** Clean Architecture, SOLID, Domain-Driven Design (DDD), APIs, Microsserviços
-- **Integrações Corporativas:** MuleSoft, REST, ETL, modernização de sistemas legados, ServiceNow
-- **Observabilidade:** Dynatrace, Kibana, ELK, Splunk, monitoramento proativo e resposta a incidentes
-- **Bancos de Dados:** Modelagem relacional, otimização de performance, PL/SQL
-- **Qualidade e Testes:** Automação de testes, análise estática, testes de carga
-
----
-
-## 🎓 Formação Acadêmica
-
-- **Bacharelado em Engenharia de Software** – Universidade Anhanguera
-- **Pós-graduação em Arquitetura de Sistemas Distribuídos** – PUC Minas *(em andamento)*
-
----
-
-## 📈 Interesses Profissionais
-
-- Arquitetura de sistemas distribuídos
-- Integrações empresariais de alta complexidade
-- Observabilidade e cultura DevOps
-- Cloud computing (AWS)
-- Liderança técnica e desenvolvimento de pessoas
+- 🎓 **Bacharelado em Engenharia de Software** — Universidade Anhanguera
+- 📚 **Pós-graduação em Arquitetura de Sistemas Distribuídos** — PUC Minas *(em andamento)*
 
 ---
 
 ## 📫 Contato
 
-| Canal       | Link                                                                |
-|-------------|---------------------------------------------------------------------|
-| LinkedIn    | [linkedin.com/in/bene-tesla](https://www.linkedin.com/in/bene-tesla) |
-| GitHub      | [github.com/Benevanio](https://github.com/Benevanio)                |
-| Portfólio   | [bene-tesla-dev.vercel.app](https://bene-tesla-dev.vercel.app)      |
-| E-mail      | [benevaniosantos930@gmail.com](mailto:benevaniosantos930@gmail.com) |
+<div align="center">
 
----
+| Canal | Link |
+|:---:|:---:|
+| 💼 LinkedIn | [linkedin.com/in/bene-tesla](https://www.linkedin.com/in/bene-tesla) |
+| 🐱 GitHub | [github.com/Benevanio](https://github.com/Benevanio) |
+| 🌐 Portfólio | [bene-tesla-dev.vercel.app](https://bene-tesla-dev.vercel.app) |
+| 📧 E-mail | [benevaniosantos930@gmail.com](mailto:benevaniosantos930@gmail.com) |
 
-> *"Sistemas confiáveis são construídos com arquitetura simples, observabilidade eficiente e foco contínuo na experiência do usuário e da equipe."*
+</div>
