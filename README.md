@@ -56,8 +56,6 @@ Na **SysMap Solutions**, desenvolvi mais de **25 integrações MuleSoft** para N
   <img alt="ExpressJS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ExpressJS.svg">
 </div>
 
-`Node.js + TypeScript` · `Java + Spring Boot` · `REST` ·
-
 ---
 
 ### Integrações Corporativas
@@ -68,7 +66,6 @@ Na **SysMap Solutions**, desenvolvi mais de **25 integrações MuleSoft** para N
 <img alt="Service Now" height="40" width="40" src="https://logosmarcas.net/wp-content/uploads/2022/02/ServiceNow-Logo.png">
 </div>
 
-`MuleSoft (API-Led Connectivity)` · · `ServiceNow (ITSM)` ·
 
 ---
 
@@ -84,13 +81,14 @@ Na **SysMap Solutions**, desenvolvi mais de **25 integrações MuleSoft** para N
   <img alt="CSS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg">
 </div>
 
-`React + TypeScript` · `HTML5 / CSS3`
-
 ---
 
 ### Bancos de Dados
 
 <div align="left">
+  
+  <img alt="Knex" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/knexjs/knexjs-original-wordmark.svg" />
+          
   <img alt="PostgreSQL" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg">
   &nbsp;
   <img alt="Oracle" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Oracle.svg">
@@ -98,7 +96,6 @@ Na **SysMap Solutions**, desenvolvi mais de **25 integrações MuleSoft** para N
   <img alt="MongoDB" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MongoDB.svg">
 </div>
 
-`PostgreSQL` · `Oracle SQL / PL/SQL` · `MongoDB`
 
 ---
 
@@ -115,8 +112,6 @@ Na **SysMap Solutions**, desenvolvi mais de **25 integrações MuleSoft** para N
           
 </div>
 
-`Dynatrace (APM)` · `Kibana / ELK Stack` · `Splunk` · `Monitoramento proativo` · `Resposta a incidentes`
-
 ---
 
 ### Cloud & DevOps
@@ -128,8 +123,6 @@ Na **SysMap Solutions**, desenvolvi mais de **25 integrações MuleSoft** para N
   &nbsp;
   <img alt="GIT" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg">
 </div>
-
-`AWS` · `Docker` · `Git / Gitea`
 
 ---
 
@@ -143,10 +136,11 @@ Na **SysMap Solutions**, desenvolvi mais de **25 integrações MuleSoft** para N
   <img alt="Postman" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postman.svg">
   &nbsp;
   <img alt="Jest" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain.svg" />
+  
+  <img alt="k6" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" />
+          
           
 </div>
-
-`Jest` · `React Testing Library` · `JUnit` · `JMeter` · `SonarQube`
 
 ---
 
