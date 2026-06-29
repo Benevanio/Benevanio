@@ -51,24 +51,24 @@ Na **SysMap Solutions**, desenvolvi mais de **25 integrações MuleSoft** para N
   &nbsp;
   <img alt="Java" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg">
   &nbsp;
-  <img alt="Spring Boot" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Spring.svg">
+  <img alt="Spring" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />    
   &nbsp;
   <img alt="ExpressJS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ExpressJS.svg">
 </div>
 
-`Node.js + TypeScript` · `Java + Spring Boot` · `REST` · `Microsserviços` · `Clean Architecture` · `DDD` · `SOLID`
+`Node.js + TypeScript` · `Java + Spring Boot` · `REST` ·
 
 ---
 
 ### Integrações Corporativas
 
 <div align="left">
-  <img alt="MuleSoft" height="40" width="40" src="https://raw.githubusercontent.com/Benevanio/Benevanio/main/icons/MuleSoft_Dark.svg">
+  <img alt="MuleSoft" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy4ledz8LhFkCKfRkhiEaTsye3C1XLSFx-mGyHVY7NSg&s=10">
   &nbsp;
-  <img alt="ServiceNow" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Microsoft.svg">
+<img alt="Service Now" height="40" width="40" src="https://logosmarcas.net/wp-content/uploads/2022/02/ServiceNow-Logo.png">
 </div>
 
-`MuleSoft (API-Led Connectivity)` · `Orquestração de APIs` · `ETL` · `ServiceNow (ITSM)` · `Modernização de legados`
+`MuleSoft (API-Led Connectivity)` · · `ServiceNow (ITSM)` ·
 
 ---
 
@@ -110,6 +110,9 @@ Na **SysMap Solutions**, desenvolvi mais de **25 integrações MuleSoft** para N
   <img alt="Elastic Search" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Elastic%20Search.svg">
   &nbsp;
   <img alt="Logstash" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Logstash.svg">
+  
+  <img alt="splunk" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" />
+          
 </div>
 
 `Dynatrace (APM)` · `Kibana / ELK Stack` · `Splunk` · `Monitoramento proativo` · `Resposta a incidentes`
@@ -135,9 +138,12 @@ Na **SysMap Solutions**, desenvolvi mais de **25 integrações MuleSoft** para N
 <div align="left">
   <img alt="Jest" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Jest.svg">
   &nbsp;
-  <img alt="SonarQube" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Sonarqube.svg">
+  <img alt="SonarQube" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original-wordmark.svg">
   &nbsp;
   <img alt="Postman" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postman.svg">
+  &nbsp;
+  <img alt="Jest" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain.svg" />
+          
 </div>
 
 `Jest` · `React Testing Library` · `JUnit` · `JMeter` · `SonarQube`
